@@ -6,13 +6,10 @@ Photo de moi que lorsque j'ai acheté un arbre il y a un an.
 
 
 ## **Intérêts dans le multimedia**
-J'aime particulièrement les oeuvres d'art et j'apprécie l'art numérique qui utilise les codes ou outils technologiques pour en faire une poésie de sons et d'images.  
-J'ai un faible pour les artistes qui combinent dans leurs installations des oeuvres physiques et médiatiques pour tisser une narration, souvent à contenu social, comme *VahMiré*.
-Les médiatrices de la Fondation Phi expliquent la multiplicité de son approche dans l'expostion *Conditions d'utilisation* présentée en juin 2023.
+J'ai toujours eu une passion d'intérêts avec tout ce qui touche sur le multimédia. De plus, j'étais intéressé tout ce qui touchait sur le côté créatif, dont l'animation 2d/3d, l'illustration, design, etc... Donc, j'aime les arts numériques et ainsi les oeuvres disposées qui ont été utilisé avec des outils technologiques. 
 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
-Partager avec les étudiant.e.s des expériences permettant de poser un regard large sur l'expérience vécue par les spectacteurs qui perçoivent l'oeuvre ou le dispositif dans un contexte d'exposition.  
-Apprendre à s'intéresser à toutes les composantes physiques et techniques qui interviennent dans la réception de la création.
+C'est le fait qu'on peut interagir avce des oeuvres et avoir vécu une expérience tout au long de l'activité. Ainsi, on peut apprendre davantage comment les oeuvres ont été y installés et admiré les oeuvres.
 
 
