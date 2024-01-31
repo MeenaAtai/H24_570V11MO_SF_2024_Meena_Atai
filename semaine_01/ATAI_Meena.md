@@ -6,10 +6,10 @@ Photo de moi que lorsque j'ai acheté un arbre il y a un an.
 
 
 ## **Intérêts dans le multimedia**
-J'ai toujours eu une passion d'intérêts avec tout ce qui touche sur le multimédia. De plus, j'étais intéressé tout ce qui touchait sur le côté créatif, dont l'animation 2d/3d, l'illustration, design, etc... Donc, j'aime les arts numériques et ainsi les oeuvres disposées qui ont été utilisé avec des outils technologiques. 
+J'ai toujours eu une passion d'intérêts avec tout ce qui touche sur le multimédia. De plus, j'étais intéressé tout ce qui touchait sur le côté créatif, dont principalement l'animation 2d/3d, l'illustration, design, etc... Donc, j'aime les arts numériques. 
 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
-C'est le fait qu'on peut interagir avce des oeuvres et avoir vécu une expérience tout au long de l'activité. Ainsi, on peut apprendre davantage comment les oeuvres ont été y installés et admiré les oeuvres.
+C'est le fait qu'on peut interagir avce des oeuvres et avoir vécu une expérience tout au long de l'activité. Ainsi, on peut apprendre davantage comment les oeuvres ont été y installés et disposées qui ont été utilisé avec des outils technologiques. 
 
 
