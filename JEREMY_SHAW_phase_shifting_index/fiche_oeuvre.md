@@ -7,3 +7,4 @@
 ### Lieu de mise en exposition
 (Mettre une photo devant l'édifice)
 
+![photo](20240131_111719(0).jpg)
