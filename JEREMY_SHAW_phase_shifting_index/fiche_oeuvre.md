@@ -6,3 +6,4 @@
 
 ### Lieu de mise en exposition
 (Mettre une photo devant l'édifice)
+
