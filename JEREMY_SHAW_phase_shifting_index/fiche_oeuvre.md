@@ -48,3 +48,13 @@ L'artiste a utilisé des caméras
 ### Éléments nécessaires à la mise en exposition :
 
 ## Mon opinion :
+
+### Expérience vécue :
+
+### Ce qui vous a plu, vous a donné des idées :
+
+### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
+
+
+## Références :
+(mettre des liens hypertext)
