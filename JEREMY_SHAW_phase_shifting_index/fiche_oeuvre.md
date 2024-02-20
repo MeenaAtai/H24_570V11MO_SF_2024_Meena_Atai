@@ -40,10 +40,11 @@ C'est une type d'installation immersive.
 (mettre une video ou photo)
 
 ### Mise en espace :
-L'endroit où il possède l'oeuvre contient 7 grands installations vidéos diffusées à sept canaux.
+L'endroit où il possède l'oeuvre contient 7 grands installations vidéos diffusées à sept canaux. Les œuvres sont disposées de manière stratégique dans différentes pièces. En entrant, vous êtes accueilli par sept grandes projections vidéo, dont quatre étaient plus en avant et trois étaient proche au mur en arrière. Certains étaient inclinés et d'autres plus droite. Vous pouvez vous déplacer librement pour explorer les différentes installations. Des panneaux fournissent des informations sur les œuvres et l'éclairage crée une ambiance qui correspond aux thèmes de l'exposition.
 
 ### Composantes et techniques :
-L'artiste a utilisé des caméras, film 16mm au VHS en passant par le Hi-8, il a aussi utilisé un effet de datamoshing, et une variété de projections de lumières.
+L'artiste a utilisé pendant tout à travers le tournage : 
+Markup : * des caméras pour les faux documentaires avec des acteurs, (film 16mm au VHS ,puis par le Hi-8). Il a aussi utilisé un effet de datamoshing, des effets spéciaux et une variété de projections de lumières. Ainsi, il a ajouté aussi de la musique et des ambiances.
 (mettre des photos et faire une liste ce que l'artiste a fait)
 
 ### Éléments nécessaires à la mise en exposition :
