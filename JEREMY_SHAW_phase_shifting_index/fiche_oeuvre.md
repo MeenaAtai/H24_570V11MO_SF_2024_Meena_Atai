@@ -48,11 +48,14 @@ Markup : * des caméras pour les faux documentaires avec des acteurs, (film 16mm
 (mettre des photos et faire une liste ce que l'artiste a fait)
 
 ### Éléments nécessaires à la mise en exposition :
-
+Le musée se sert de projections et de canaux pour téléviser les vidéos. Ainsi, il y avait tout un système de d'accrochage au plafond pour pouvoir suspendre les oeuvres. De plus, Ainsi, tout au long d'un mur de la salle avait des sièges grises pour pouvoir le visionner et certains sièges qui sont en face de certains écrans.
+(mettre des photos)
 
 ## Évaluation critique :
 
 ### Expérience vécue :
+Au début, 
+(mettre des vidéos)
 
 ### Ce qui vous a plu, vous a donné des idées :
 
