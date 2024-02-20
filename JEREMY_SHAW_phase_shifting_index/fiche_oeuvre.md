@@ -65,7 +65,7 @@ Pendant l'exposition de cette oeuvre, j'ai vraiment aimé lorsque les vidéos o�
 (mettre des photos)
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
-Celui que ça m'a moins plu était dont la façon les oeuvres ont été disposé. Je trouvais que parfois c'était dur de voir les autres oeuvres lorsqu'ils étaient caché par d'autres. Parfois, les lumières étaient trop fortes et ça peut donner une mal de tête ou une crise épilepsie.
+Celui que ça m'a moins plu était dont la façon les oeuvres ont été disposé. Je trouvais que parfois c'était dur de voir les autres oeuvres lorsqu'ils étaient caché par d'autres. Parfois, les lumières étaient trop fortes et ça peut donner une mal de tête ou aux yeux ou/et une crise épilepsie.
 (mettre des photos)
 
 ## Références :
