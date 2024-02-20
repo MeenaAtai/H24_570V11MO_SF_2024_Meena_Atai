@@ -36,20 +36,20 @@ Phase Shifting Index est une création artistique, faite par Jeremy Shaw, qui am
 https://fonderiedarling.org/https://fonderiedarling.org/
 
 ### Type d'installation :
-immersive
+C'est une type d'installation immersive.
 (mettre une video ou photo)
 
 ### Mise en espace :
-L'endroit où il possède l'oeuvre contient canaux télévisé où il contient les vidéos.
+L'endroit où il possède l'oeuvre contient 7 grands installations vidéos diffusées à sept canaux.
 
 ### Composantes et techniques :
-L'artiste a utilisé des caméras
-(mettre des photos et faire une liste ce que L'artiste a fait)
+L'artiste a utilisé des caméras, film 16mm au VHS en passant par le Hi-8, il a aussi utilisé un effet de datamoshing, et une variété de projections de lumières.
+(mettre des photos et faire une liste ce que l'artiste a fait)
 
 ### Éléments nécessaires à la mise en exposition :
 
 
-## Commentaires :
+## Évaluation critique :
 
 ### Expérience vécue :
 
