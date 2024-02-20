@@ -60,7 +60,7 @@ Au début, avant qu'on découvre la salle de l'oeuvre, on a reçu une explicatio
 (mettre des vidéos)
 
 ### Ce qui vous a plu, vous a donné des idées :
-Pendant l'exposition de cette oeuvre, j'ai vraiment aimé lorsque les vidéos où a un certain point du moment, les vidéos se sont d'une sorte connectés visuellement.
+Pendant l'exposition de cette oeuvre, j'ai vraiment aimé lorsque les vidéos où a un certain point de l'oeuvre, les vidéos se sont d'une sorte connectés visuellement grâce par des danses, de musique, d'effets et de projections lumineuses.
 (mettre des photos)
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
@@ -69,3 +69,5 @@ Celui que ça m'a moins plu était dont la façon les oeuvres ont été disposé
 
 ## Références :
 (mettre des liens hypertext)
+
+https://fonderiedarling.org/https://fonderiedarling.org/
