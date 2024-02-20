@@ -9,6 +9,7 @@
 
 ### Lieu de mise en exposition :
 (Mettre une photo devant l'édifice)
+MAC à la Fonderie Darling
 
 ### Type d'expostion :
 permanente, intérieur
