@@ -46,6 +46,7 @@ C'est une type d'installation immersive.
 
 ### Mise en espace :
 L'endroit où il possède l'oeuvre contient 7 grands installations vidéos diffusées à sept canaux. Les œuvres sont disposées de manière stratégique dans différentes pièces. En entrant, vous êtes accueilli par sept grandes projections vidéo, dont quatre étaient plus en avant et trois étaient proche au mur en arrière. Certains étaient inclinés et d'autres plus droite. Vous pouvez vous déplacer librement pour explorer les différentes installations. Des panneaux fournissent des informations sur les œuvres et l'éclairage crée une ambiance qui correspond aux thèmes de l'exposition.
+
 Vue d'ensemble :
 ![jeremy_shaw_phase_shifting_index_vue_ensemble_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/31bda402-66be-4137-a6e5-9d12d479ae7c)
 ![jeremy_shaw_phase_shifting_index_vue_ensemble_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/22f4ea13-8b7d-4642-9e65-1fab9d04a0d5)
