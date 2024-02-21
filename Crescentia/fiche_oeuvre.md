@@ -44,4 +44,50 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 (photos à l'appui) 
 
 ### Le schéma de l'installation prévue:
-[Uploading Effet-Papillon_docs_preproduction_medias_stl_structure.stl at main · Iteration6_Effet-Papillon.html…]()
+![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/5398e90e-7d85-42ec-b340-bb58fe9cf213)
+
+https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias/o3_plantation.svg
+
+### **Kigo :**
+
+**Titre du projet :**
+
+Kigo
+
+**Nom des créateurs(trices) :**
+
+Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
+
+**Lien du projet lié avec le thème Crescentia:**
+
+https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
+
+**L'installation en cours dans les studios pour chacun des projets :**
+(photos à l'appui) 
+
+### Le schéma de l'installation prévue:
+![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/821f964d-4f99-4045-9162-1151c7267392)
+
+https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
+
+### **Sonalux :**
+
+**Titre du projet :**
+
+Sonalux
+
+**Nom des créateurs(trices) :**
+
+Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
+
+**Lien du projet lié avec le thème Crescentia:**
+
+[https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
+
+**L'installation en cours dans les studios pour chacun des projets :**
+(photos à l'appui) 
+
+### Le schéma de l'installation prévue:<
+![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b514b222-9fdd-4d89-bfc2-8288664eecbd)
+
+https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
