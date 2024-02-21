@@ -18,7 +18,7 @@ MAC à la Fonderie Darling
 permanente, intérieur
 
 ### Date de la visite :
-Mercredi 31 janvier 2024 à 11h30
+Mercredi 31 janvier 2024
 
 ### Année de réalisation :
 2020
@@ -27,7 +27,9 @@ Mercredi 31 janvier 2024 à 11h30
 ## Caractéristiques de l'oeuvre :
 
 ### Description de l'oeuvre :
-Phase Shifting Index est une création artistique, faite par Jeremy Shaw, qui amène à l'audience à une expérience parascientifique et psychédélique, dont l'histoire va se rapprocher à un point commun. Cela démontre sept différents groupes de méditation ou de groupes de thérapie qui captent et reproduit dans l'essence de l’époque des années 60 à 90 sur chacun d'un des canaux. Puis, ils vont se rapprocher à une euphorie synchronisée, où tous les sujets vont exécuter une série de danses non-conventionnelles qui s'intensifient de plus en plus à l'aide de lumières et de sons. Par la suite, ils seront projétées à l'aide de l'effet de datamoshing et qui se termine avec des images de petites particules qui flottent.
+Phase Shifting Index est une création artistique, faite par Jeremy Shaw, qui amène à l'audience à une expérience parascientifique et psychédélique, dont l'histoire va se rapprocher à un point commun. Cela démontre sept différents groupes de méditation ou de groupes de thérapie qui captent et reproduit dans l'essence de l’époque des années 60 à 90 sur chacun d'un des canaux. Puis, ils vont se rapprocher à une euphorie synchronisée, où tous les sujets vont exécuter une série de danses non-conventionnelles qui s'intensifient de plus en plus à l'aide de lumières et de sons. Par la suite, ils seront traité digitalement à l'aide de l'effet de datamoshing et qui se termine avec des images de petites particules qui flottent.
+
+https://fonderiedarling.org/https://fonderiedarling.org/
 
 Cartel :
 ![jeremy_shaw_phase_shifting_index_cartel](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/03f00b31-ab93-42bb-9acb-0a093ed2f571)
@@ -38,7 +40,7 @@ Diverses vues des oeuvres :
 ![jeremy_shaw_phase_shifting_index_description_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/476962f7-1195-41e4-a0e0-5fe04daf3ca6)
 ![jeremy_shaw_phase_shifting_index_description_04](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/33cbd6b6-6227-43f2-a023-4a8b06e46ffc)
 
-https://fonderiedarling.org/https://fonderiedarling.org/
+
 
 ### Type d'installation :
 C'est une type d'installation immersive.
@@ -57,6 +59,9 @@ Croquis :
 
 ### Composantes et techniques :
 L'artiste a utilisé pendant tout à travers le tournage des caméras pour les faux documentaires avec des acteurs, (film 16mm au VHS ,puis par le Hi-8). Il a aussi utilisé un effet de datamoshing, des effets spéciaux et une variété de projections de lumières. Ainsi, il a ajouté aussi de la musique et des ambiances.
+
+https://macm.org/expositions/jeremy-shaw/
+
 ![jeremy_shaw_phase_shifting_index_composantes_techniques](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/196a8fd8-5980-4f12-9ece-50f0f73181f7)
 
 ### Éléments nécessaires à la mise en exposition :
@@ -86,3 +91,5 @@ Celui que ça m'a moins plu était dont la façon les oeuvres ont été disposé
 (mettre des liens hypertext)
 
 https://fonderiedarling.org/https://fonderiedarling.org/
+
+https://macm.org/expositions/jeremy-shaw/
