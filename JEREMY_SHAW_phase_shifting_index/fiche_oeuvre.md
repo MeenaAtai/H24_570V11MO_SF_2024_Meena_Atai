@@ -7,7 +7,7 @@ Phase Shifting Index de Jeremy Shaw
 ![2020_JSH_Phase-Shifting-Index_affiche](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/35fdf524-bc33-4cbe-a13d-75667a526485)
 
 
-## Informations gérérales :
+## Informations générales :
 
 ### Lieu de mise en exposition :
 ![jeremy_shaw_phase_shifting_index_lieu_de_mise_en_exposition](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e5775c7e-1f21-4ad3-9e9a-56cf11ec1312)
