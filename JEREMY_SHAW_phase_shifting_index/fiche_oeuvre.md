@@ -23,6 +23,8 @@ Mercredi 31 janvier 2024 à 11h30
 Phase Shifting Index
 (Vue d'ensemble de l'oeuvre ou du dispositif = photo)
 
+
+
 ### Nom de l'artiste :
 Jeremy Shaw
 
@@ -35,6 +37,7 @@ Jeremy Shaw
 ### Description de l'oeuvre :
 Phase Shifting Index est une création artistique, faite par Jeremy Shaw, qui amène à l'audience à une expérience parascientifique et psychédélique, dont l'histoire va se rapprocher à un point commun. Cela démontre sept différents groupes de méditation ou de groupes de thérapie qui captent et reproduit dans l'essence de l’époque des années 60 à 90 sur chacun d'un des canaux. Puis, ils vont se rapprocher à une euphorie synchronisée, où tous les sujets vont exécuter une série de danses non-conventionnelles qui s'intensifient de plus en plus à l'aide de lumières et de sons. Par la suite, ils seront projétées à l'aide de l'effet de datamoshing et qui se termine avec des images de petites particules qui flottent.
 
+![jeremy_shaw_phase_shifting_index_cartel](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/03f00b31-ab93-42bb-9acb-0a093ed2f571)
 (mettre une photo de cartel)
 
 https://fonderiedarling.org/https://fonderiedarling.org/
