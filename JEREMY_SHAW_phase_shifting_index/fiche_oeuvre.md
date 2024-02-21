@@ -9,7 +9,7 @@
 ## Informations gérérales :
 
 ### Lieu de mise en exposition :
-![20240131_111719(0)](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e5775c7e-1f21-4ad3-9e9a-56cf11ec1312)
+![jeremy_shaw_phase_shifting_index_lieu_de_mise_en_exposition](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e5775c7e-1f21-4ad3-9e9a-56cf11ec1312)
 
 MAC à la Fonderie Darling
 
