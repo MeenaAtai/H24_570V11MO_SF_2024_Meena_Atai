@@ -17,6 +17,12 @@ MAC à la Fonderie Darling
 ### Type d'expostion :
 permanente, intérieur
 
+### Nom de l'artiste :
+Jeremy Shaw
+
+### Nom de l'oeuvre :
+Phase shifting index
+
 ### Date de la visite :
 Mercredi 31 janvier 2024
 
