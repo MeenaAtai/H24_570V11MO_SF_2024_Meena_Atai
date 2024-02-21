@@ -69,6 +69,8 @@ Le musée se sert de projections et de canaux pour téléviser les vidéos. Ains
 Au début, avant qu'on découvre la salle de l'oeuvre, on a reçu une explication bref de l'artiste et du l'oeuvre par le guide. Lorsqu'on est rentré dans la salle, je ne m'attendais pas à quelque chose si extraordinaire. C'était un peu confus. Puis, quelque chose y se produit, et tout les gens de la salle était calme et attentive surtout lorsque les vidéos se synchronisaient. Puis, on était captivé par les effets et des images et de lumières clinquants. Je trouvais ça intéressant et bizarre. En gros, personnellement, cette expérience m'a rempli d'émerveillement, me faisant sentir connecté aux thèmes explorés.
 
 
+https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1e14bc96-c86e-4eb8-a14e-963fbd36a869
+
 
 ### Ce qui vous a plu, vous a donné des idées :
 Pendant l'exposition de cette oeuvre, j'ai vraiment aimé lorsque les vidéos où a un certain point de l'oeuvre, les vidéos se sont d'une sorte connectés visuellement grâce par des danses, de musique, d'effets et de projections lumineuses.
