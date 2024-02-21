@@ -57,6 +57,7 @@ Croquis :
 ### Composantes et techniques :
 L'artiste a utilisé pendant tout à travers le tournage des caméras pour les faux documentaires avec des acteurs, (film 16mm au VHS ,puis par le Hi-8). Il a aussi utilisé un effet de datamoshing, des effets spéciaux et une variété de projections de lumières. Ainsi, il a ajouté aussi de la musique et des ambiances.
 (mettre des photos et faire une liste ce que l'artiste a fait)
+![jeremy_shaw_phase_shifting_index_composantes_techniques](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/196a8fd8-5980-4f12-9ece-50f0f73181f7)
 
 ### Éléments nécessaires à la mise en exposition :
 Le musée se sert de projections et de canaux pour téléviser les vidéos. Ainsi, il y avait tout un système de d'accrochage au plafond pour pouvoir suspendre les oeuvres. De plus, Ainsi, tout au long d'un mur de la salle avait des sièges grises pour pouvoir le visionner et certains sièges qui sont en face de certains écrans.
