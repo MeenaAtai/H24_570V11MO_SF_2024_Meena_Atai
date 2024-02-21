@@ -1,8 +1,9 @@
 # FICHE DE PRÉSENTATION
 
 
-### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE : Jeremy Shaw Phase Shifting Index
-(Mettre une affiche de l'exposition = photo)
+### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE : Phase Shifting Index de Jeremy Shaw 
+
+![2020_JSH_Phase-Shifting-Index_affiche](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/35fdf524-bc33-4cbe-a13d-75667a526485)
 
 
 ## Informations gérérales :
