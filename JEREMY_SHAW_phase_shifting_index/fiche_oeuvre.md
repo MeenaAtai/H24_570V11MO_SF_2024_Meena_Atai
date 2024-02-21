@@ -25,8 +25,6 @@ Phase Shifting Index
 ![jeremy_shaw_phase_shifting_index_vue_ensemble_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/22f4ea13-8b7d-4642-9e65-1fab9d04a0d5)
 ![jeremy_shaw_phase_shifting_index__vue_ensemble_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7d370781-1f2a-4277-bda3-7fa3fd3f4f47)
 
-(Vue d'ensemble de l'oeuvre ou du dispositif = photo)
-
 ### Nom de l'artiste :
 Jeremy Shaw
 
@@ -40,7 +38,10 @@ Jeremy Shaw
 Phase Shifting Index est une création artistique, faite par Jeremy Shaw, qui amène à l'audience à une expérience parascientifique et psychédélique, dont l'histoire va se rapprocher à un point commun. Cela démontre sept différents groupes de méditation ou de groupes de thérapie qui captent et reproduit dans l'essence de l’époque des années 60 à 90 sur chacun d'un des canaux. Puis, ils vont se rapprocher à une euphorie synchronisée, où tous les sujets vont exécuter une série de danses non-conventionnelles qui s'intensifient de plus en plus à l'aide de lumières et de sons. Par la suite, ils seront projétées à l'aide de l'effet de datamoshing et qui se termine avec des images de petites particules qui flottent.
 
 ![jeremy_shaw_phase_shifting_index_cartel](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/03f00b31-ab93-42bb-9acb-0a093ed2f571)
-(mettre une photo de cartel)
+![jeremy_shaw_phase_shifting_index_description_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/40837058-4ffe-4712-a18c-afd46dd201bb)
+![jeremy_shaw_phase_shifting_index_description_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6480e5a2-6599-49f7-a65b-0ffce1846c60)
+![jeremy_shaw_phase_shifting_index_description_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/476962f7-1195-41e4-a0e0-5fe04daf3ca6)
+![jeremy_shaw_phase_shifting_index_description_04](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/33cbd6b6-6227-43f2-a023-4a8b06e46ffc)
 
 https://fonderiedarling.org/https://fonderiedarling.org/
 
