@@ -79,16 +79,14 @@ Au début, avant qu'on découvre la salle de l'oeuvre, on a reçu une explicatio
 https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1e14bc96-c86e-4eb8-a14e-963fbd36a869
 
 
-### Ce qui vous a plu, vous a donné des idées :
+### Ce que j'ai plu, m'a donné des idées :
 Pendant l'exposition de cette oeuvre, j'ai vraiment aimé lorsque les vidéos où a un certain point de l'oeuvre, les vidéos se sont d'une sorte connectés visuellement grâce par des danses, de musique, d'effets et de projections lumineuses.
-(mettre des photos)
 
-### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
+### Aspect que je ne souhaiteriez pas retenir pour mes propres créations ou que je feriez autrement :
 Celui que ça m'a moins plu était dont la façon les oeuvres ont été disposé. Je trouvais que parfois c'était dur de voir les autres oeuvres lorsqu'ils étaient caché par d'autres. Parfois, les lumières étaient trop fortes et ça peut donner une mal de tête ou aux yeux ou/et une crise épilepsie.
-(mettre des photos)
 
 ## Références :
-(mettre des liens hypertext)
+
 
 https://fonderiedarling.org/https://fonderiedarling.org/
 
