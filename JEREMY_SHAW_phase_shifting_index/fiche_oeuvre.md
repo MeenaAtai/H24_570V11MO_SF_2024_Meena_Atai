@@ -62,12 +62,13 @@ L'artiste a utilisé pendant tout à travers le tournage des caméras pour les f
 ### Éléments nécessaires à la mise en exposition :
 Le musée se sert de projections et de canaux pour téléviser les vidéos. Ainsi, il y avait tout un système de d'accrochage au plafond pour pouvoir suspendre les oeuvres. De plus, Ainsi, tout au long d'un mur de la salle avait des sièges grises pour pouvoir le visionner et certains sièges qui sont en face de certains écrans.
 (mettre des photos)
+![jeremy_shaw_phase_shifting_index_mise_en_exposition](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f2c4f3a3-1397-4087-88ad-3c5ea9307ab2)
 
 
 ## Évaluation critique :
 
 ### Expérience vécue :
-Au début, avant qu'on découvre la salle de l'oeuvre, on a reçu une explication bref de l'artiste, du l'oeuvre par le guide. Lorsqu'on est rentré dans la salle, je ne m'attendais pas à de quelque chose si extraordinaire. C'était un peu confus. Puis, quelque chose y se produit, et tout les gens de la salle était calme et attentive surtout lorsque les vidéos se synchronisaient. Puis, on était captivé par les effets et des images et de lumières clinquants. Je trouvais ça intéressant et bizarre. En gros, personnellement, cette expérience m'a rempli d'émerveillement, me faisant sentir connecté aux thèmes explorés.
+Au début, avant qu'on découvre la salle de l'oeuvre, on a reçu une explication bref de l'artiste et du l'oeuvre par le guide. Lorsqu'on est rentré dans la salle, je ne m'attendais pas à quelque chose si extraordinaire. C'était un peu confus. Puis, quelque chose y se produit, et tout les gens de la salle était calme et attentive surtout lorsque les vidéos se synchronisaient. Puis, on était captivé par les effets et des images et de lumières clinquants. Je trouvais ça intéressant et bizarre. En gros, personnellement, cette expérience m'a rempli d'émerveillement, me faisant sentir connecté aux thèmes explorés.
 (mettre des vidéos)
 
 ### Ce qui vous a plu, vous a donné des idées :
