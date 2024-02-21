@@ -21,9 +21,11 @@ Mercredi 31 janvier 2024 à 11h30
 
 ### Titre de l'oeuvre :
 Phase Shifting Index
+![jeremy_shaw_phase_shifting_index_vue_ensemble_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/31bda402-66be-4137-a6e5-9d12d479ae7c)
+![jeremy_shaw_phase_shifting_index_vue_ensemble_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/22f4ea13-8b7d-4642-9e65-1fab9d04a0d5)
+![jeremy_shaw_phase_shifting_index__vue_ensemble_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7d370781-1f2a-4277-bda3-7fa3fd3f4f47)
+
 (Vue d'ensemble de l'oeuvre ou du dispositif = photo)
-
-
 
 ### Nom de l'artiste :
 Jeremy Shaw
