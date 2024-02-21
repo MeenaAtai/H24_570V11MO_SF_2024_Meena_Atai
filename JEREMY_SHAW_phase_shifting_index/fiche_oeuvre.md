@@ -1,7 +1,8 @@
 # FICHE DE PRÉSENTATION
 
 
-### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE : Phase Shifting Index de Jeremy Shaw 
+### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE : 
+Phase Shifting Index de Jeremy Shaw 
 
 ![2020_JSH_Phase-Shifting-Index_affiche](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/35fdf524-bc33-4cbe-a13d-75667a526485)
 
@@ -18,15 +19,6 @@ permanente, intérieur
 
 ### Date de la visite :
 Mercredi 31 janvier 2024 à 11h30
-
-### Titre de l'oeuvre :
-Phase Shifting Index
-![jeremy_shaw_phase_shifting_index_vue_ensemble_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/31bda402-66be-4137-a6e5-9d12d479ae7c)
-![jeremy_shaw_phase_shifting_index_vue_ensemble_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/22f4ea13-8b7d-4642-9e65-1fab9d04a0d5)
-![jeremy_shaw_phase_shifting_index__vue_ensemble_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7d370781-1f2a-4277-bda3-7fa3fd3f4f47)
-
-### Nom de l'artiste :
-Jeremy Shaw
 
 ### Année de réalisation :
 2020
@@ -54,6 +46,13 @@ C'est une type d'installation immersive.
 
 ### Mise en espace :
 L'endroit où il possède l'oeuvre contient 7 grands installations vidéos diffusées à sept canaux. Les œuvres sont disposées de manière stratégique dans différentes pièces. En entrant, vous êtes accueilli par sept grandes projections vidéo, dont quatre étaient plus en avant et trois étaient proche au mur en arrière. Certains étaient inclinés et d'autres plus droite. Vous pouvez vous déplacer librement pour explorer les différentes installations. Des panneaux fournissent des informations sur les œuvres et l'éclairage crée une ambiance qui correspond aux thèmes de l'exposition.
+Vue d'ensemble :
+![jeremy_shaw_phase_shifting_index_vue_ensemble_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/31bda402-66be-4137-a6e5-9d12d479ae7c)
+![jeremy_shaw_phase_shifting_index_vue_ensemble_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/22f4ea13-8b7d-4642-9e65-1fab9d04a0d5)
+![jeremy_shaw_phase_shifting_index__vue_ensemble_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7d370781-1f2a-4277-bda3-7fa3fd3f4f47)
+
+Croquis :
+![jeremy_shaw_phase_shifting_index_croquis](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/5d8b5ab9-6d6c-45ec-9dae-7c31fab7a684)
 
 ### Composantes et techniques :
 L'artiste a utilisé pendant tout à travers le tournage des caméras pour les faux documentaires avec des acteurs, (film 16mm au VHS ,puis par le Hi-8). Il a aussi utilisé un effet de datamoshing, des effets spéciaux et une variété de projections de lumières. Ainsi, il a ajouté aussi de la musique et des ambiances.
