@@ -62,6 +62,7 @@ L'artiste a utilisé pendant tout à travers le tournage des caméras pour les f
 ### Éléments nécessaires à la mise en exposition :
 Le musée se sert de projections et de canaux pour téléviser les vidéos. Ainsi, il y avait tout un système de d'accrochage au plafond pour pouvoir suspendre les oeuvres. De plus, Ainsi, tout au long d'un mur de la salle avait des sièges grises pour pouvoir le visionner et certains sièges qui sont en face de certains écrans.
 ![jeremy_shaw_phase_shifting_index_mise_en_exposition](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f2c4f3a3-1397-4087-88ad-3c5ea9307ab2)
+![jeremy_shaw_phase_shifting_index_mise_en_exposition_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f39e2cf0-c8d0-4a7b-90c3-7449ba1f26c6)
 
 
 ## Évaluation critique :
