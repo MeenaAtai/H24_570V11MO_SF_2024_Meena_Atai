@@ -65,7 +65,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 **L'installation en cours dans les studios pour chacun des projets :**
 (photos à l'appui) 
 
-### Le schéma de l'installation prévue:
+### Le schéma de l'installation prévue :
 ![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/821f964d-4f99-4045-9162-1151c7267392)
 
 https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
@@ -87,7 +87,31 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 **L'installation en cours dans les studios pour chacun des projets :**
 (photos à l'appui) 
 
-### Le schéma de l'installation prévue:<
+### Le schéma de l'installation prévue :
 ![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b514b222-9fdd-4d89-bfc2-8288664eecbd)
 
 https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
+
+### **Canevas cosmique :**
+
+**Titre du projet :**
+
+Canevas cosmique
+
+**Nom des créateurs(trices) :**
+
+Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mikaël Tourangeau
+
+**Lien du projet lié avec le thème Crescentia:**
+
+https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
+
+**L'installation en cours dans les studios pour chacun des projets :**
+(photos à l'appui) 
+
+### Le schéma de l'installation prévue :
+![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/410d2b8f-23c8-434f-8a08-512c48972542)
+
+![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/08dea83b-c7c5-4909-835b-dcf9c7ed9aba)
+
+https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduction
