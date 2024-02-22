@@ -26,6 +26,8 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png
 
+<br/>
+
 ### **Effet-papillon :**
 
 **Titre du projet :**
@@ -47,6 +49,8 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 ![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/5398e90e-7d85-42ec-b340-bb58fe9cf213)
 
 https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias/o3_plantation.svg
+
+<br/>
 
 ### **Kigo :**
 
@@ -70,6 +74,8 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
+<br/>
+
 ### **Sonalux :**
 
 **Titre du projet :**
@@ -91,6 +97,8 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 ![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b514b222-9fdd-4d89-bfc2-8288664eecbd)
 
 https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
+
+<br/>
 
 ### **Canevas cosmique :**
 
