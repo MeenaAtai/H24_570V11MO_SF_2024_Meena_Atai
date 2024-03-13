@@ -125,3 +125,13 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 ![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/08dea83b-c7c5-4909-835b-dcf9c7ed9aba)
 
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduction
+
+<br/> 
+<br/>
+<br/>
+
+## Cours importants :
+
+* Web
+* Installation multimédia
+* 
