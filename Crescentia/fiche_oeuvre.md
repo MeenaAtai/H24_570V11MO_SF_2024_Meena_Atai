@@ -142,4 +142,8 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduc
 <br/>
 **La technique/composante :** 
 
-## 
+## Évaluation critique :
+
+ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
+
+noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
