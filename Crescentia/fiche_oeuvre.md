@@ -130,8 +130,16 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduc
 <br/>
 <br/>
 
-## Cours importants :
+## Les cours importants liés aux projets:
 
 * Web
 * Installation multimédia
-* 
+* Traitement audiovisuel
+
+## Les techniques et les composantes technologiques :
+
+**Nom du projet :** 
+<br/>
+**La technique/composante :** 
+
+## 
