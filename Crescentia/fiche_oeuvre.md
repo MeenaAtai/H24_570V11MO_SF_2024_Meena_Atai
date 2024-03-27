@@ -24,16 +24,21 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 **Le schéma de l'installation prévue :**
 
-![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/410d2b8f-23c8-434f-8a08-512c48972542)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/410d2b8f-23c8-434f-8a08-512c48972542" alt="schema" width="500">
 
-![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/08dea83b-c7c5-4909-835b-dcf9c7ed9aba)
-
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/08dea83b-c7c5-4909-835b-dcf9c7ed9aba" width="500">
+<br/>
+<br/>
 https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduction
+<br/>
+<br/>
 
-**Justification pourquoi c.est votre préféré :**
+**Justification d'ordre de préférence :**
 
-
-<br/><br/><br/>
+Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favori. En fait, je trouvais le concept très simple, facile à comprendre et interactif. J’ai aimé lorsque les objets se croisent ceux et crée toutes de sortes de réactions, par exemple : quand on déposait le petit sculpture de saturne, le soleil émet un rayon lumineux très fort.
+<br/>
+<br/>
+<br/>
 
 ### **2eme projet :**
 
@@ -50,12 +55,18 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 [https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
 **L'installation en cours dans les studios pour chacun des projets :**
+
 (photos à l'appui) 
 
 **Le schéma de l'installation prévue :**
-![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b514b222-9fdd-4d89-bfc2-8288664eecbd)
+<br/>
+<br/>
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b514b222-9fdd-4d89-bfc2-8288664eecbd" width="500">
 
 https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
+
+**Justification d'ordre de préférence :**
+Je l'ai mis en deuxième selon l'ordre de préférence parce que je le trouvais tres innovant. En effet, j'aimais voir les diffusions de lumières se changer selon les paramètres de boutons et ainsi, les sons qui se sortait.
 
 <br/><br/><br/>
 
@@ -77,9 +88,11 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 (photos à l'appui) 
 
 **Le schéma de l'installation prévue :**
-![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/821f964d-4f99-4045-9162-1151c7267392)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/821f964d-4f99-4045-9162-1151c7267392" width="500">
 
 https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
+
+**Justification d'ordre de préférence :**
 
 <br/><br/><br/>
 
@@ -106,6 +119,8 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png
 
+**Justification d'ordre de préférence :**
+
 <br/><br/><br/>
 
 ### **5eme projet :**
@@ -130,7 +145,11 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 
 https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias/o3_plantation.svg
 
+**Justification d'ordre de préférence :**
+Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais malgré des problèmes techniques, ce n'était pas possible de voir le projet.
+
 <br/><br/><br/>
+
 
 ## Les cours importants liés aux projets:
 
@@ -138,14 +157,11 @@ https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias
 * Installation multimédia
 * Traitement audiovisuel
 
+
 ## Les techniques et les composantes technologiques :
 
 **Nom du projet :** 
 <br/>
 **La technique/composante :** 
-
-## Évaluation critique :
-
-
 
 noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
