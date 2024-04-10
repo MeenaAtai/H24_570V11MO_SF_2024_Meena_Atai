@@ -5,7 +5,7 @@ Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
 ## Informations générales de chaque projet, selon l’ordre de préférence (celui que je l’aime le plus à celui que je l’aime le moins) :
 
-### ** 1er projet :**
+### **1er projet :**
 
 **Titre du projet :**
 
@@ -35,8 +35,7 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduc
 
 **Justification d'ordre de préférence :**
 
-Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favori. En fait, je trouvais le concept très simple, facile à comprendre et interactif. J’ai aimé lorsque les objets se croisent ceux et crée toutes de sortes de réactions, par exemple : quand on déposait le petit sculpture de saturne, le soleil émet un rayon lumineux très fort.
-<br/>
+Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favori. En fait, je trouvais le concept très simple, facile à comprendre et interactif. J’ai aimé lorsque les objets se croisent ceux et crée toutes de sortes de réactions, par exemple : quand on déposait le petit sculpture de saturne, le soleil émet un rayon lumineux très fort sur la projection du mur et de la table.
 <br/>
 <br/>
 
@@ -66,7 +65,7 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction
 
 **Justification d'ordre de préférence :**
-Je l'ai mis en deuxième selon l'ordre de préférence parce que je le trouvais tres innovant. En effet, j'aimais voir les diffusions de lumières se changer selon les paramètres de boutons et ainsi, les sons qui se sortait.
+Je l'ai mis en deuxième selon l'ordre de préférence parce que je le trouvais tres innovant. En effet, j'aimais voir les diffusions de lumières se changer selon les paramètres de boutons et ainsi, les sons qui se sortait. Certains sons étaient plus aigu que d'autres, plus rauque que d'autres, etc... Je trouvais que c'était motivant à les configurer.
 
 <br/><br/><br/>
 
@@ -88,11 +87,13 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 (photos à l'appui) 
 
 **Le schéma de l'installation prévue :**
+<br/><br/>
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/821f964d-4f99-4045-9162-1151c7267392" width="500">
 
 https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 **Justification d'ordre de préférence :**
+Je l'ai mis en troisième parce que je pensais que c'était amusant et captivant. On dirait il y avait un jeu. Il y avait un style plutôt rétro et futuristic. Par contre, c'était simple comme concept mais, ça devenait répétitif. Il n'y avait pas assez de défis et très difficulté plus on y progressait dans le jeu. Ca aurait été mieux si on pouvait sauter ou esquiver des choses qui venait dans les air ou simplement des objets qui peuvent "booster" la partie du jeu que juste il y une augmentation de vitesse.
 
 <br/><br/><br/>
 
@@ -115,11 +116,12 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 **Le schéma de l'installation prévue :**
 
-![rhizomatique_plantation drawio](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/61da40cb-24be-42c3-843d-4072574e625d)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/61da40cb-24be-42c3-843d-4072574e625d" width="500">
 
 https://github.com/TIM-Celestia/Rhizomatique/blob/main/docs/preproduction/medias/rhizomatique_plantation.drawio.png
 
 **Justification d'ordre de préférence :**
+Je l'ai mis en quatrième parce que j'aime lorsque on pose notre main sur la toile du podium, on pouvait y accéder à des mémoires qui rappellent à notre enfance. Il y a avait une touche émotionnelle et de nostalgie en tout. Cependant, je trouvais que c'était pas si captivant et j'avais l'impression qui manquait quelque chose. C'était vraiment trop simple et parfois, on était un peu perdu à retrouver les mémoires (vidéos ou images).
 
 <br/><br/><br/>
 
@@ -141,12 +143,14 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 (photos à l'appui) 
 
 **Le schéma de l'installation prévue :**
-![image](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/5398e90e-7d85-42ec-b340-bb58fe9cf213)
+<br/><br/>
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/5398e90e-7d85-42ec-b340-bb58fe9cf213" width="500">
 
 https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias/o3_plantation.svg
 
+
 **Justification d'ordre de préférence :**
-Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais malgré des problèmes techniques, ce n'était pas possible de voir le projet.
+Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais malgré des problèmes techniques, ce n'était pas possible de voir le projet final.
 
 <br/><br/><br/>
 
