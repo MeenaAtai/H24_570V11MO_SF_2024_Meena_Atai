@@ -35,7 +35,7 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduc
 
 **Justification d'ordre de préférence :**
 
-Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favori. En fait, je trouvais le concept très simple, facile à comprendre et interactif. J’ai aimé lorsque les objets se croisent ceux et crée toutes de sortes de réactions, par exemple : quand on déposait le petit sculpture de saturne, le soleil émet un rayon lumineux très fort sur la projection du mur et de la table.
+Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favori. En fait, je trouvais le concept très simple, facile à comprendre et interactif. J'ai toujours adoré tout ce qui est en rapport avec les galaxies et l'espace. J’ai aimé lorsque les objets se croisent ceux et crée toutes de sortes de réactions, par exemple : quand on déposait le petit sculpture de saturne, le soleil émet un rayon lumineux très fort sur la projection du mur et de la table.
 <br/>
 <br/>
 
