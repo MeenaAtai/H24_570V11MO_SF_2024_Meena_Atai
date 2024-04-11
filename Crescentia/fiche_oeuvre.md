@@ -38,6 +38,7 @@ https://github.com/Les-gars-d-la-table/Canevas-Cosmique/tree/main/docs/preproduc
 Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favori. En fait, je trouvais le concept très simple, facile à comprendre et interactif. J'ai toujours adoré tout ce qui est en rapport avec les galaxies et l'espace. J’ai aimé lorsque les objets se croisent ceux et crée toutes de sortes de réactions, par exemple : quand on déposait le petit sculpture de saturne, le soleil émet un rayon lumineux très fort sur la projection du mur et de la table.
 <br/>
 <br/>
+<br/>
 
 ### **2eme projet :**
 
@@ -150,7 +151,7 @@ https://github.com/Iteration6/Effet-Papillon/blob/main/docs/preproduction/medias
 
 
 **Justification d'ordre de préférence :**
-Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais malgré des problèmes techniques, ce n'était pas possible de voir le projet final.
+Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais malgré des problèmes techniques, ce n'était pas possible de voir et expérimenter le projet final. On pouvait seulement y visionner les composantes utilisés dans le projet, mais pas les objets conçus sur les écrans.
 
 <br/><br/><br/>
 
@@ -168,4 +169,5 @@ Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais ma
 <br/>
 **La technique/composante :** 
 
-noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+Un des techniques/composantes que j'ai été le plus interessé est celui du 
+
