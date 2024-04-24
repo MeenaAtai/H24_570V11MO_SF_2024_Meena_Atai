@@ -24,7 +24,7 @@ Rafael Lozano-Hemmer est une artiste mexicain qui est né en 1967. Il a obtenu u
 <br/>
 
 ### Type de l'interactivité
-On a pu constater 
+On a pu constater que l'interactivité prend deux formes : passive et active. Lorsqu'on interagit passivement avec une œuvre, on observe ou ressent sans agir directement, comme marcher à travers une installation lumineuse. En revanche, une interaction active implique une participation directe, comme appuyer sur des boutons pour déclencher des changements dans l'œuvre. En combinant ces deux types d'interaction, les artistes créent des expériences où le public devient partie intégrante de l'œuvre, offrant une immersion unique dans le processus artistique.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/92b223f5-ea0d-4a6b-9e5c-f316908575ac" width="400px">
 
