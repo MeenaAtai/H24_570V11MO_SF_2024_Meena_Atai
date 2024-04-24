@@ -5,7 +5,7 @@ Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
 ## Informations générales de chaque projet, selon l’ordre de préférence (de celui que j’aime le plus à celui que j’aime le moins) :
 
-### **1er projet :**
+### 1er projet :
 
 **Titre du projet :**
 
@@ -24,7 +24,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 |Avant (semaine 5) | Après (semaine 7) | 
 | ---     | ---             | 
 |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/ebaaa350-5bb1-4a14-bf10-53a26a1910ce" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f213b544-4671-45c5-936d-80a9c685f8fc" width="170px"> |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fc7fef7b-abbb-4ffd-9206-fee8edd4df17" width="300px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b84e2fcc-cbb1-4ad0-b5e1-244580226f1b" width="200px">|
-| Lieu de mise en exposition | Vous devant l'entrée de l'édifice| 
+| Ils ont utilisé des projecteurs, et des papiers avec un code QR au verso pour animer les planètes. | L'emplacement de la table a changé et ils ont remplacer les paiers avec des objets 3D. | 
 
 
 **Le schéma de l'installation prévue :**
@@ -45,7 +45,7 @@ Je l’ai mis en premier ordre de préférence parce que c'est celui de mon favo
 <br/>
 <br/>
 
-### **2eme projet :**
+### 2eme projet :
 
 **Titre du projet :**
 
@@ -63,7 +63,7 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
 |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6f8d662b-4bba-4d59-ade7-1a2251d15b472" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7a4e3d9d-f31f-458c-95f2-faee219eae2d" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9c8c44bb-e409-4e2c-aad8-28d7577984ba2" width="200px"> | <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fa5dcda4-8106-469a-ab50-dfbae0408263" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/50c37016-d3c6-48ca-ad65-c5eb5fc36b4e" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/180c2139-7fc3-44a7-893c-e08dbad038ca2" width="200px"> |
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
+|  |  | 
 
 **Le schéma de l'installation prévue :**
 <br/>
@@ -77,7 +77,7 @@ Je l'ai mis en deuxième selon l'ordre de préférence parce que je le trouvais 
 
 <br/><br/><br/>
 
-### **3eme projet :**
+### 3eme projet :
 
 **Titre du projet :**
 
@@ -108,7 +108,7 @@ Je l'ai mis en troisième parce que je pensais que c'était amusant et captivant
 
 <br/><br/><br/>
 
-### ** 4eme projet :**
+### 4eme projet :
 
 **Titre du projet :**
 
@@ -139,7 +139,7 @@ Je l'ai mis en quatrième parce que j'aime lorsque on pose notre main sur la toi
 
 <br/><br/><br/>
 
-### **5eme projet :**
+### 5eme projet :
 
 **Titre du projet :**
 
