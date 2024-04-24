@@ -156,7 +156,7 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 **L'installation en cours dans les studios pour chacun des projets :**
 |Avant (semaine 5) |  Après (semaine 7) | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| | |
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
