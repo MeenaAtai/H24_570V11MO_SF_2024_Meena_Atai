@@ -94,7 +94,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 **L'installation en cours dans les studios pour chacun des projets :**
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
-|![kigo_avant_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/bed6c4bf-cd22-404d-968b-42d52dc429a1)![kigo_avant_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/00582a4f-f4f8-4273-b2bd-efd12854f769)| ![kigo_après_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/81b5d123-0a5b-4850-8265-815efdc14d3e)![kigo_après_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2cb13b65-5458-46f4-8a6c-360cfce313cd)|
+|![kigo_avant_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/bed6c4bf-cd22-404d-968b-42d52dc429a1)![kigo_avant_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7f807f95-c1f3-45f3-b198-0982214b2579)| ![kigo_après_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/81b5d123-0a5b-4850-8265-815efdc14d3e)![kigo_après_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2cb13b65-5458-46f4-8a6c-360cfce313cd)|
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
