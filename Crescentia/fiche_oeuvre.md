@@ -125,7 +125,7 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 **L'installation en cours dans les studios pour chacun des projets :**
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| ![rhizomatique_avant_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9349660c-9e3f-4b70-a7a0-d3ae33221b42)![rhizomatique_avant_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6f21e9f6-d6b5-49b0-90be-ad80bd68aab5)![rhizomatique_avant_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/77ea5028-3a98-49d5-b6f3-faa62ca9411d)| ![rhizomatique_après_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/97b6f76d-9ac5-408b-8af2-57df0723d5b3)![rhizomatique_après_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9e6ee044-84ff-4dca-a4cf-e7d2cf058da2)![rhizomatique_après_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/ee8313bc-8ec1-4dfd-ba0e-e75f3d32f970)|
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
