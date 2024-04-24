@@ -60,8 +60,10 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 [https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
 **L'installation en cours dans les studios pour chacun des projets :**
-
-(photos à l'appui) 
+|:pencil2: À noter  | :camera: À photographier | 
+| ---     | ---             | 
+| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
 <br/>
@@ -90,7 +92,10 @@ Kigo
 https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
 **L'installation en cours dans les studios pour chacun des projets :**
-(photos à l'appui) 
+|:pencil2: À noter  | :camera: À photographier | 
+| ---     | ---             | 
+| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
 <br/><br/>
@@ -118,7 +123,10 @@ Jolyanne Desjardins, MaÏka Désy, Laurie Houde et Felix Testa Radovanovic
 https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 
 **L'installation en cours dans les studios pour chacun des projets :**
-(photos à l'appui) 
+|:pencil2: À noter  | :camera: À photographier | 
+| ---     | ---             | 
+| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
 
@@ -146,7 +154,10 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 [https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
 
 **L'installation en cours dans les studios pour chacun des projets :**
-(photos à l'appui) 
+|:pencil2: À noter  | :camera: À photographier | 
+| ---     | ---             | 
+| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
 
 **Le schéma de l'installation prévue :**
 <br/><br/>
