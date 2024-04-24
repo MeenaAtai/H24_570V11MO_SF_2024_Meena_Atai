@@ -23,7 +23,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 |Avant (semaine 5) | Après (semaine 7) | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement| Affiche de l'exposition|
+|<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/ebaaa350-5bb1-4a14-bf10-53a26a1910ce" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f213b544-4671-45c5-936d-80a9c685f8fc" width="170px"> |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fc7fef7b-abbb-4ffd-9206-fee8edd4df17" width="300px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b84e2fcc-cbb1-4ad0-b5e1-244580226f1b" width="200px">|
 | Lieu de mise en exposition | Vous devant l'entrée de l'édifice| 
 
 
