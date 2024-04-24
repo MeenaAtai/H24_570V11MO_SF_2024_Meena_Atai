@@ -25,15 +25,15 @@ Rafael Lozano-Hemmer, artiste mexicain né en 1967, crée des œuvres interactiv
 <br/>
 <br/>
 
-### Type de l'interactivité
-L'interactivité peut être passive ou active. Dans la passive, on observe sans agir directement, tandis que dans l'active, on participe directement, par le touché, en appuyant, etc. Combiner les deux types crée des expériences où le public devient intégré à l'œuvre, offrant une immersion unique.
+### Type d'interactivité 
+L'interactivité peut être passive ou active. Dans la passive, on observe sans agir directement, tandis que dans l'active, on participe directement, par le toucher, en appuyant, etc. Combiner les deux types crée des expériences où le public devient intégré à l'œuvre, offrant une immersion unique.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/92b223f5-ea0d-4a6b-9e5c-f316908575ac" width="400px">
 
 <br/>
 <br/>
 
-### Son rôle du registraire dans le studio Antimodular
+### Son rôle de registraire dans le studio Antimodular
 En tant que registraire chez Antimodular Research, Jade gère l'expédition internationale des œuvres d'art et leur documentation. Elle garantit leur bon état à l'arrivée en utilisant divers emballages et en prenant des photos comme preuve, tout en documentant également le matériel envoyé à des fins pratiques et administratives. Sa collaboration avec d'autres entreprises lors de l'installation souligne l'importance du travail d'équipe.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/254d99aa-ac2f-4f59-a5d8-ddfbe8651504" width="400px">
