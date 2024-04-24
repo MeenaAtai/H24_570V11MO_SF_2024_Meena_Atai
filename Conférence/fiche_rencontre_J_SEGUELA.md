@@ -6,7 +6,7 @@ Solar Equation – The Light in Winter Festival, Melbourne, Australia, 2010
 https://www.lozano-hemmer.com/
 
 ## Introduction
-Mardi 16 avril 2024, à 12h30-14h00 dans la salle Claude Legault (B1346), on a pu assister à une conférence où Jade Séguéla, nous présenta l'importance de la documenta pour gérer la collection et exposer la production d'un artiste en art numérique de Rafael Lozano-Hemmer, implique diverses tâches essentielles. Cela comprend l'acquisition et la documentation des œuvres, le stockage sécurisé des fichiers numériques, ainsi que la gestion efficace des bases de données pour suivre les détails techniques et les droits d'auteur. Puis, elle a expliqué les défis et explorer plus en profondeur de la documentation.
+Lors d'une conférence le 16 avril 2024, Jade Séguéla a mis en avant l'importance cruciale de la documentation pour gérer et exposer l'art numérique de Rafael Lozano-Hemmer, en soulignant les étapes clés telles que l'acquisition des œuvres, le stockage sécurisé des fichiers numériques et la gestion des bases de données. Elle a également mentionné des moyens de simplifier ce processus, comme l'automatisation des tâches et la collaboration entre professionnels.
 
 ## Développement
 
@@ -32,7 +32,7 @@ On a pu constater que l'interactivité prend deux formes : passive et active. Lo
 <br/>
 
 ### Son rôle du registraire dans le studio Antimodular
-Dans son rôle au sein du studio Antimodular Research, Jade s'occupe principalement de deux aspects clés : l'envoi des œuvres d'art à l'international et la documentation. Pour garantir que les pièces arrivent en bon état, elle utilise différents types d'emballages et prend des photos comme preuve, tel que le projet "Translation Stream". En parallèle, elle doit aussi documenter le matériel envoyé pour diverses raisons pratiques et administratives. Une fois sur place pour l'installation, les défis persistent, et la collaboration avec d'autres entreprises est souvent nécessaire pour surmonter les obstacles imprévus, ce qui souligne l'importance du travail d'équipe dans ce domaine.
+Au sein du studio Antimodular Research, Jade gère principalement l'envoi international des œuvres d'art et leur documentation. Pour assurer leur bon état à l'arrivée, elle utilise divers emballages et prend des photos comme preuve, comme pour le projet "Translation Stream". En parallèle, elle documente également le matériel envoyé pour des raisons pratiques et administratives. Pendant l'installation sur place, elle doit souvent collaborer avec d'autres entreprises pour surmonter les obstacles imprévus, soulignant ainsi l'importance du travail d'équipe dans ce domaine.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/254d99aa-ac2f-4f59-a5d8-ddfbe8651504" width="400px">
 
