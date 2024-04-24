@@ -29,7 +29,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 **Le schéma de l'installation prévue :**
 
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/410d2b8f-23c8-434f-8a08-512c48972542" alt="schema" width="500">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/410d2b8f-23c8-434f-8a08-512c48972542" alt="schema" width="400">
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/08dea83b-c7c5-4909-835b-dcf9c7ed9aba" width="500">
 <br/>
