@@ -5,7 +5,7 @@ Mardi 16 avril 2024, à 12h30-14h00 dans la salle Claude Legault (B1346), on a p
 
 ## Développement
 
-### Présenation de l'artiste
+### Présentation de l'artiste
 
 ### Type de l'interactive 
 
