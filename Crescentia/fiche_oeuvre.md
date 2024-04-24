@@ -3,7 +3,7 @@
 ### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE :
 Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
-## Informations générales de chaque projet, selon l’ordre de préférence (celui que je l’aime le plus à celui que je l’aime le moins) :
+## Informations générales de chaque projet, selon l’ordre de préférence (de celui que j’aime le plus à celui que j’aime le moins) :
 
 ### **1er projet :**
 
@@ -20,7 +20,12 @@ Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et Mika
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 **L'installation en cours dans les studios pour chacun des projets :**
-(photos à l'appui) 
+
+|Avant (semaine 5) | Après (semaine 7) | 
+| ---     | ---             | 
+| Nom de l'exposition ou de l'événement| Affiche de l'exposition|
+| Lieu de mise en exposition | Vous devant l'entrée de l'édifice| 
+
 
 **Le schéma de l'installation prévue :**
 
