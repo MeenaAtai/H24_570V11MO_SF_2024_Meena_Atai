@@ -16,6 +16,8 @@ Lors de la conférence du 16 avril 2024, l'importance cruciale de la documentati
 
 https://www.lozano-hemmer.com/bio.php
 
+<br/>
+
 Rafael Lozano-Hemmer, artiste mexicain né en 1967, crée des œuvres interactives mêlant technologie, poésie, politique et science. Diplômé en chimie physique de l'Université Concordia à Montréal en 1989, il a fondé en 2003 une équipe de gestion composée de 26 membres.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/86c8e207-a53e-46ef-b648-6e84a44e6640" width="400px">
