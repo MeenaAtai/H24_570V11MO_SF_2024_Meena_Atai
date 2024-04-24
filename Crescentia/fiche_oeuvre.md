@@ -63,7 +63,7 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
 |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6f8d662b-4bba-4d59-ade7-1a2251d15b472" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7a4e3d9d-f31f-458c-95f2-faee219eae2d" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9c8c44bb-e409-4e2c-aad8-28d7577984ba2" width="200px"> | <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fa5dcda4-8106-469a-ab50-dfbae0408263" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/50c37016-d3c6-48ca-ad65-c5eb5fc36b4e" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/180c2139-7fc3-44a7-893c-e08dbad038ca2" width="200px"> |
-|  |  | 
+| Les fils des boutons étaient par-dessus de la table de bois. Beaucoup de fils étaient exposés et pas à leur bonne place. | LA table avec des botuons est devenue noire, ils ont ajouté des casques et les fils sont maintenant cachées et rangées. | 
 
 **Le schéma de l'installation prévue :**
 <br/>
