@@ -126,7 +126,7 @@ https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
 | <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9349660c-9e3f-4b70-a7a0-d3ae33221b42" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6f21e9f6-d6b5-49b0-90be-ad80bd68aab5" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/77ea5028-3a98-49d5-b6f3-faa62ca9411d" width="200px">| <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/97b6f76d-9ac5-408b-8af2-57df0723d5b3" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9e6ee044-84ff-4dca-a4cf-e7d2cf058da2" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/ee8313bc-8ec1-4dfd-ba0e-e75f3d32f970" width="200px">|
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
+| L'emplacement de la main sur la toile n'est pas très bien défini. | L'emplacement de la main sur la toile est plus concret et les fils sont bien rangés et on apercevait mieux les étoiles sur les murs du cyclorama. | 
 
 **Le schéma de l'installation prévue :**
 
