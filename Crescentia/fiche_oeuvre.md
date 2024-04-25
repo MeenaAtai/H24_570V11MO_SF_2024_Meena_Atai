@@ -24,7 +24,7 @@ https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 |Avant (semaine 5) | Après (semaine 7) | 
 | ---     | ---             | 
 |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/ebaaa350-5bb1-4a14-bf10-53a26a1910ce" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f213b544-4671-45c5-936d-80a9c685f8fc" width="170px"> |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fc7fef7b-abbb-4ffd-9206-fee8edd4df17" width="300px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b84e2fcc-cbb1-4ad0-b5e1-244580226f1b" width="200px">|
-| Ils ont utilisé des projecteurs, et des papiers avec un code QR au verso pour animer les planètes. | L'emplacement de la table a changé et ils ont remplacer les paiers avec des objets 3D. | 
+| Ils ont utilisé des projecteurs, et des papiers avec un code QR au verso pour animer les planètes. | L'emplacement de la table a changé et ils ont remplacer les papiers avec des objets 3D. | 
 
 
 **Le schéma de l'installation prévue :**
@@ -63,7 +63,7 @@ Antoine Haddad, Camélie Laprise, Ghita Alaoui et Vincent Desjardins
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
 |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6f8d662b-4bba-4d59-ade7-1a2251d15b472" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7a4e3d9d-f31f-458c-95f2-faee219eae2d" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9c8c44bb-e409-4e2c-aad8-28d7577984ba2" width="200px"> | <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fa5dcda4-8106-469a-ab50-dfbae0408263" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/50c37016-d3c6-48ca-ad65-c5eb5fc36b4e" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/180c2139-7fc3-44a7-893c-e08dbad038ca2" width="200px"> |
-| Les fils des boutons étaient par-dessus de la table de bois. Beaucoup de fils étaient exposés et pas à leur bonne place. | LA table avec des botuons est devenue noire, ils ont ajouté des casques et les fils sont maintenant cachées et rangées. | 
+| Les fils des boutons étaient par-dessus de la table de bois. Beaucoup de fils étaient exposés et pas à leur bonne place. | La table avec des boutons est devenue noire, ils ont ajouté des casques d'écouteurs et les fils sont maintenant cachées et rangées. | 
 
 **Le schéma de l'installation prévue :**
 <br/>
