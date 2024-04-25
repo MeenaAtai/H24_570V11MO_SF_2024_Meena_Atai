@@ -95,7 +95,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 |Avant (semaine 5)  |  Après (semaine 7) | 
 | ---     | ---             | 
 |<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/bed6c4bf-cd22-404d-968b-42d52dc429a1" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7f807f95-c1f3-45f3-b198-0982214b2579" width="200px">| <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/81b5d123-0a5b-4850-8265-815efdc14d3e" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2cb13b65-5458-46f4-8a6c-360cfce313cd" width="300px">|
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
+| Les projecteurs ne captaient pas très bien les vêtements à cause des textures et on devait esquiver les obstacles de gauche à droite. | Les projecteurs détectaient mieux les vêtements, changement d'esthétique du jeu et on doit se squatter pour esquiver les obstacles. | 
 
 **Le schéma de l'installation prévue :**
 <br/><br/>
