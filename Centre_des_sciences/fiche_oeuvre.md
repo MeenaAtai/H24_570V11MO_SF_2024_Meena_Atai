@@ -7,7 +7,8 @@
 ## Informations générales :
 
 ### Lieu de mise en exposition :
-![lieu](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a75ebe5a-313c-44b6-a04e-959a4ce30e75)
+
+![centre-des-sciences-de-montreal-lieu](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a6e46a4f-0ea8-41dc-80ad-be790b72e1f4)
 
 ### Nom de l'artiste :
 
