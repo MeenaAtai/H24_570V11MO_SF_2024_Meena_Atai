@@ -103,14 +103,20 @@ Croquis :
 
 ### Composantes et techniques :
 
-Ces écrans possèdent des caméras qui permettent d'afficher et projeter en temps réel. Ainsi, ils sont gérés avec des capteurs intégrés à l'écran qui détectent la luminosité et la température de couleur de l'environnement et ajustent automatiquement la couleur et la luminosité de l'écran en conséquence pour recreer les differents ondes de lumières comme les rayons UV ou infrarouges.
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1e18eb8b-d522-4c13-82a5-9e09938eb411" width="300px">
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9ebe15dc-7154-4742-ad99-3411816d4e3f" width="300px">
+Ces écrans possèdent des caméras qui permettent d'afficher et projeter en temps réel. Ainsi, ils sont gérés avec des capteurs intégrés à l'écran qui détectent la luminosité et la température de couleur de l'environnement et ajustent automatiquement la couleur et la luminosité de l'écran en conséquence pour recréer les differents ondes de lumières comme les rayons UV ou infrarouges, tel la caméra thermique et la caméra UV.
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1e18eb8b-d522-4c13-82a5-9e09938eb411" width="450px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9ebe15dc-7154-4742-ad99-3411816d4e3f" width="200px">
 
 
 ### Éléments nécessaires à la mise en exposition :
 
+Pour cet dispositif, il était nécessaire d'avoir des caméras avec des capteurs qui permettent de détecter les différents ondes de lumières :
+* Caméra thermique
+* Camera UV
+* Des écrans
 
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a43b7987-6a9e-4d7b-b301-bd8d16ab16c12 width="300px">
 
 ## Évaluation critique :
 
