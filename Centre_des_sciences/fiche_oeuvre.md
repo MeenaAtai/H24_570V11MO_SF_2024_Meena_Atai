@@ -5,7 +5,7 @@
 
 Explore - La science en grand
 
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7c206bf0-88e9-4511-9b7a-48218046e3b7" width="800px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7c206bf0-88e9-4511-9b7a-48218046e3b7" width="700px">
 https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 
 ## Informations générales :
@@ -39,10 +39,23 @@ Permanent
 ## Caractéristiques de l'oeuvre :
 
 ### Description de l'oeuvre :
-Le Centre des sciences de Montréal offre une exposition permanente intitulée : Explore - La science en grand. Dans cette exposition, elle est composée de sept oeuvres thèmatique. Parmi eux, un est nommé Lumière. Dans cette oeuvre, on pouvait experimenter avec le spectre de la lumière et en explorant la réflexion, la réfraction, l’ultraviolet et l’infrarouge avec des installations interactives. Par exemple, à l'aide de blocs, on créé des effets lumineux déconcertants sur un mur de lumière. Ainsi, on pouvait appuyer sur des boutons, cela changeait la couleur du dispositif. Puis, on pouvait explorer à l'intérieur d'un grand kaléidoscope géant.
+Le Centre des sciences de Montréal offre une exposition permanente intitulée : Explore - La science en grand. Dans cette exposition, elle est composée de sept oeuvres thèmatique. Parmi eux, un est nommé Lumière. Dans cette oeuvre, on pouvait experimenter avec le spectre de la lumière et en explorant la réflexion, la réfraction, l’ultraviolet et l’infrarouge avec des installations interactives. Par exemple, à l'aide de blocs, on créé des effets lumineux déconcertants sur un mur de lumière. 
 
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9ab85350-2d23-4cef-bff7-93c858c09bda" width="400px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9ab85350-2d23-4cef-bff7-93c858c09bda" width="300px">
+<br/>
+<br/>
 
+Ainsi, on pouvait appuyer sur des boutons, cela changeait la couleur du dispositif. 
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b75f5e36-fba2-4c3f-9c8c-3f461553b7fe" width="300px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/6ae9265f-a2f1-48a1-ac8f-ffbbc1897cfa " width="300px">
+<br/>
+<br/>
+
+Puis, on pouvait explorer à l'intérieur d'un grand kaléidoscope géant. Entre chaque mirroir, il y avait de la lumière qui projette et se transformait de couleur en couleur. Cela provoquait un effet où les rayons lumineux se rebondissent des mirroirs et émet un motif à cause de la reflexion lumineuse de nombreux couleurs.
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/62b353fe-e167-4de9-9833-e054ba465d42" width="300px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0b9f6690-3c70-4daa-b800-d607e78080e4" width="300px">
 
 
 Cartel :
