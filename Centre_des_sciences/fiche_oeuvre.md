@@ -116,15 +116,14 @@ Pour cet dispositif, il était nécessaire d'avoir des caméras avec des capteur
 * Camera UV
 * Des écrans
 
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a43b7987-6a9e-4d7b-b301-bd8d16ab16c12 width="300px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c6cfb802-26e1-49ce-8627-ecd5473558de" width="300px">
+
 
 ## Évaluation critique :
 
-
-
 ### Expérience vécue :
 
-
+Lorsqu'on nous arrivons au Centre des Sciences
 
 ### Ce que j'ai plu, m'a donné des idées :
 
