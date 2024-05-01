@@ -5,6 +5,7 @@
 
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7c206bf0-88e9-4511-9b7a-48218046e3b7" width="700px">
+
 https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 
 ## Informations générales :
@@ -12,7 +13,7 @@ https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 ### Lieu de mise en exposition :
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a6e46a4f-0ea8-41dc-80ad-be790b72e1f4" width="500px">
-
+https://www.centredessciencesdemontreal.com/information-visiteurs
 
 ### Nom de l'oeuvre :
 
@@ -76,12 +77,14 @@ Les caméras de vue rapproché :
 
 C'est un type d'installation immersive.
 
-![installation](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/93bd112e-0b5a-4f65-bf62-3efa02d5f55f)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/93bd112e-0b5a-4f65-bf62-3efa02d5f55f" width="300px">
 
 
 ### Mise en espace :
 
 Vue d'ensemble :
+
+![mise en espace](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c68a0f2f-8022-4870-927d-b4d09b48a886)
 
 Croquis :
 
