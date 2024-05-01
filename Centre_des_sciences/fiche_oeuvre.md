@@ -80,36 +80,52 @@ C'est un type d'installation immersive.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/93bd112e-0b5a-4f65-bf62-3efa02d5f55f" width="300px">
 
-
 ### Mise en espace :
 
 Vue d'ensemble :
 
-![mise en espace](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c68a0f2f-8022-4870-927d-b4d09b48a886)
+L'ensemble du dispositif est dans le deuxième étage du bâtiment. Il est regroupé avec d'autres dispositif liés au thème de la lumière. Ainsi, il était en avant de ce dispositif. 
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c68a0f2f-8022-4870-927d-b4d09b48a886" width="500px">
+<br/>
+<br/>
+
+Le dispositif qui était en arrière de celui-ci : 
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0fb31a61-9985-4bfc-be0a-8d7ba6054602" width="300px">
+
 
 https://www.youtube.com/watch?v=9l1Z7QUegws&t=2s
 
 Croquis :
 
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/fcaf7391-0c8f-44ac-9eed-78492750edcf" width="500px">
 
 ### Composantes et techniques :
 
+Ces écrans possèdent des caméras qui permettent d'afficher et projeter en temps réel. Ainsi, ils sont gérés avec des capteurs intégrés à l'écran qui détectent la luminosité et la température de couleur de l'environnement et ajustent automatiquement la couleur et la luminosité de l'écran en conséquence pour recreer les differents ondes de lumières comme les rayons UV ou infrarouges.
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1e18eb8b-d522-4c13-82a5-9e09938eb411" width="300px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9ebe15dc-7154-4742-ad99-3411816d4e3f" width="300px">
 
 
 ### Éléments nécessaires à la mise en exposition :
 
 
+
 ## Évaluation critique :
 
-### Expérience vécue :
 
+
+### Expérience vécue :
 
 
 
 ### Ce que j'ai plu, m'a donné des idées :
 
 
+
 ### Aspect que je ne souhaiteriez pas retenir pour mes propres créations ou que je feriez autrement :
+
 
 
 ## Références :
