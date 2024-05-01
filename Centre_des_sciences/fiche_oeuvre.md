@@ -3,6 +3,10 @@
 
 ### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE : 
 
+Explore - La science en grand
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/7c206bf0-88e9-4511-9b7a-48218046e3b7" width="800px">
+https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 
 ## Informations générales :
 
@@ -13,7 +17,9 @@
 
 ### Nom de l'oeuvre :
 
-Explore
+**Explore - La science en grand**
+
+Lumière
 
 ### Nom de l'artiste :
 
@@ -33,6 +39,9 @@ Permanent
 ## Caractéristiques de l'oeuvre :
 
 ### Description de l'oeuvre :
+Le Centre des sciences de Montréal offre une exposition permanente intitulée : Explore - La science en grand. Dans cette exposition, elle est composée de sept oeuvres thèmatique. Parmi eux, un est nommé Lumière. Dans cette oeuvre, on pouvait experimenter avec le spectre de la lumière et en explorant la réflexion, la réfraction, l’ultraviolet et l’infrarouge avec des installations interactives. Par exemple, à l'aide de blocs, on créé des effets lumineux déconcertants sur un mur de lumière. Ainsi, on pouvait appuyer sur des boutons, cela changeait la couleur du dispositif. Puis, on pouvait explorer à l'intérieur d'un grand kaléidoscope géant.
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9ab85350-2d23-4cef-bff7-93c858c09bda" width="400px">
 
 
 
