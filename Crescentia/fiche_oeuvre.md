@@ -104,7 +104,7 @@ https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 https://github.com/espace-interactif/Kigo/tree/main/docs/preproduction
 
 **Justification d'ordre de préférence :**
-Je l'ai mis en troisième parce que je pensais que c'était amusant et captivant. On dirait il y avait un jeu. Il y avait un style plutôt rétro et futuristic. Par contre, c'était simple comme concept mais, ça devenait répétitif. Il n'y avait pas assez de défis et très difficulté plus on y progressait dans le jeu. Ca aurait été mieux si on pouvait sauter ou esquiver des choses qui venait dans les air ou simplement des objets qui peuvent "booster" la partie du jeu que juste il y une augmentation de vitesse.
+Je l'ai mis en troisième parce que je pensais que c'était amusant et captivant. On dirait il y avait un jeu. Il y avait un style plutôt rétro et futuristic. Par contre, c'était simple comme concept mais, ça devenait répétitif. Il n'y avait pas assez de défis et très peu de difficulté lorsqu'on y progressait dans le jeu. Ca aurait été mieux si on pouvait sauter ou esquiver des choses qui venait dans les air ou simplement des objets qui peuvent "booster" la partie du jeu que juste il y une augmentation de vitesse.
 
 <br/><br/><br/>
 
@@ -157,7 +157,7 @@ Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Vikto
 |Avant (semaine 5) |  Après (semaine 7) | 
 | ---     | ---             | 
 | <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/3435481e-10a1-45c2-8b8a-ccf044ff586b" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/30e462b8-20cc-4ca5-b4c9-a9752a5cf6ce" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c148d9a7-13cc-416d-a6c4-a347ee35976d" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/111331ea-2353-4c73-8141-006515a23118" width="200px">| <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/936233b5-e8e8-41a1-8dbd-4747f7f5cf04" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/250c4b4a-daa3-47a6-ab72-0364309dced3" width="200px"><img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/556f8898-7d68-4656-84db-a7799897e39e" width="200px">|
-| Plusieurs haut-parleurs sont attaché au plafond, avec une installation de haute performance. | Vous devant l'entrée de l'édifice| 
+| Plusieurs haut-parleurs sont attaché au plafond, avec une installation de haute performance. Mais, c'était incomplet. | L'installation est un peu plus complet et on pouvait illustrer les objets mieux sur les petits écrans de l'installation. | 
 
 **Le schéma de l'installation prévue :**
 <br/><br/>
@@ -183,7 +183,9 @@ Je l'ai mis en dernier parce que je trouvais qu'il y avait du potentiel, mais ma
 
 **Nom du projet :** 
 <br/>
+
+Rhizomatique
+
 **La technique/composante :** 
 
-Un des techniques/composantes que j'ai été le plus interessé est celui du 
-
+Un des techniques/composantes que j'ai été le plus interessé est celui de l'utilisation du kinect. Le kinect est un appareil créé par Microsoft qui détecte les mouvements des joueurs à l'aide de caméras sans qu'ils aient besoin de tenir des manettes de jeu. Initialement, il était conçu pour des jeux sur la console Xbox. Mais, avec le kinect, on pouvait interagir avec les installations en bougeant simplement votre corps devant la caméra, plutôt que d'utiliser des boutons sur une manette. Je trouvais ça fascinant.
