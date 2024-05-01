@@ -8,6 +8,7 @@
 
 ### Lieu de mise en exposition :
 
+![age of union-lieu](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/adb6e470-b2fd-4497-b02a-bbaeed57396a)
 
 ### Type d'expostion :
 
