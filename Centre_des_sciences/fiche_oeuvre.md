@@ -87,6 +87,8 @@ Vue d'ensemble :
 
 ![mise en espace](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c68a0f2f-8022-4870-927d-b4d09b48a886)
 
+https://www.youtube.com/watch?v=9l1Z7QUegws&t=2s
+
 Croquis :
 
 
