@@ -15,6 +15,7 @@
 
 ### Nom de l'artiste :
 
+Nico Fonseca et Kelly Nunes
 
 ### Nom de l'oeuvre :
 
