@@ -41,7 +41,7 @@ Samedi 15 mars
 
 ### Description de l'oeuvre :
 
-Earth room est une installation multimédia où on peut visiter une petite salle avec en thème avec la nature, la terre, etc... À l'intérieur, les murs sont decorés de végétation et de branches. Ainsi, le sol est couvert de gazon et de petites feuilles d'arbres, découpés sur du bois. Au milieu de la salle, il y avait un dispositif qui a l'air d'un feu de bois. de petits cristaux de couleur chaude
+Earth room est une installation multimédia où on peut visiter une petite salle avec en thème avec la nature, la terre, etc... À l'intérieur, les murs sont decorés de végétation et de branches. Ainsi, le sol est couvert de gazon et de petites feuilles d'arbres, découpés sur du bois. Au milieu de la salle, il y avait un dispositif qui a l'air d'un feu de bois de petits cristaux de couleur chaude entouré de cristaux métalliques.
 
 Cartel :
 
