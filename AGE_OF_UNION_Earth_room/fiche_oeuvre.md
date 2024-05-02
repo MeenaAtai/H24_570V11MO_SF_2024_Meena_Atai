@@ -50,9 +50,13 @@ Diverses vues des oeuvres :
 
 
 
-### Type d'installation :
+### Type d'installation et fonction :
+
+Cette dispositif est de type immersive. Cette installation est une salle interactive comme fonction. 
 
 ### Mise en espace :
+
+
 
 Vue d'ensemble :
 
