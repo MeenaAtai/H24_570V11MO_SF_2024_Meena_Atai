@@ -97,9 +97,8 @@ Voici les composantes ou techniques utilisées :
 * Enregistrements d'audio
 * Installations de végetaux et autres
 
-![composant_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/853a6e5f-6c48-4273-a311-92516f75cf2e)
-![composante_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/37fc1972-d655-45cb-b7c0-0d7b9ce50ccb)
-![composant_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/16197721-9fd2-41e4-8587-9577183659c2)
+![composante_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/353503de-4898-4e23-9e5b-674add4c5f70)
+
 
 ### Éléments nécessaires à la mise en exposition :
 
@@ -109,9 +108,10 @@ Pour cette oeuvre, ces équipements étaient nécessaire pour le réaliser :
 * Des écrans réactifs au son
 * Des décorations en lien avec la nature (feuilles vertes ou en bois, branches, roches, de la terre, etc...)
 
-![élément_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a9869049-c2fb-4156-b0a4-4093a6223001)
-![élément_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c0ea5cfa-b1d7-4b00-a0b8-07ad5803c45f)
-![élément_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c227acec-3243-4a6d-8ada-6cf3a445f92a)
+![élément_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9f003d7d-9bc4-4276-b6bf-103a6410111b)
+![élément_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/8475b8a8-3192-428b-8307-4ea7a5340676)
+![élément_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e615e18e-1d53-450f-a739-1e22b94e8643)
+![element_04](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/3a2a4d54-e2ba-4bdc-9d63-35d3713509e5)
 
 ## Évaluation critique :
 
