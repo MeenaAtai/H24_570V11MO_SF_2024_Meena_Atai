@@ -82,7 +82,8 @@ https://ageofunion.com/permanent-collection/
 
 Vue d'ensemble :
 
-Il était disposé au 2eme étage du bâtiment.
+Il était disposé au 2eme étage du bâtiment. Cette oeuvre est tout entièrement fait avec de décor de végétaux. Ainsi, il y a un grand cercle creusé au mur avec des ampoule pour illuminer la salle. Ainsi, quelques hauts parleurs sont caché au coin de la pièce pour les sons. Ainsi, le sol est recouvert de feuilles et au centre, il y 
+des roches foncées avec des cristaux rougâtres.
 
 ![Vue_d'ensemble](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2b65976e-8eff-48ad-9883-c72e6dcf08ab)
 
@@ -92,7 +93,9 @@ Croquis :
 
 ### Composantes et techniques :
 
-Il y avait une grande utilisation de lumières, de haut-parleurs et d'écrans sonores interactifs. L'événement était rempli de lumières vives, de sons percutants et d'écrans réagissant au rythme de la musique, offrant ainsi une expérience stimulante pour tous les sens.
+Voici les composantes ou techniques utilisées :
+* Enregistrements d'audio
+* Installations de végetaux et autres
 
 ![composant_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/853a6e5f-6c48-4273-a311-92516f75cf2e)
 ![composante_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/37fc1972-d655-45cb-b7c0-0d7b9ce50ccb)
@@ -118,11 +121,11 @@ Lorsque j'ai visité cette exposition, je ne m'attendais pas à vraiment de quel
 
 ### Ce que j'ai plu, m'a donné des idées :
 
-J'aime l'idée d'utiliser d'une salle et le rendre tout interactif. C'était originale.
+J'aime l'idée d'utiliser d'une salle et le rendre tout interactif. C'était originale. Ainsi, il évoque un profond respect pour notre environnement. La simplicité de ce concept nous rappelle l'importance de prendre soin de la Terre et de toutes ses créatures. Cela m'inspire à adopter un mode de vie plus respectueux de l'environnement et à encourager les autres à faire de même.
 
 ### Aspect que je ne souhaiteriez pas retenir pour mes propres créations ou que je feriez autrement :
 
-Ce que j'ai moins apprécié est 
+Quelques points à modifier ou à améliorer à ce projet seraient d'augmenter la diversité des végétations. En effet, cela permettrait de mieux représenter la richesse et la variété de la vie naturelle. Ainsi, en intégrant une plus grande diversité de plantes, fleurs et arbres, le projet serait plus fidèle à la réalité écologique et offrirait une expérience plus immersive pour les visiteurs. Ainsi, il y aurait plus d'interactivité avec cette oeuvre.
 
 ## Référence :
 
