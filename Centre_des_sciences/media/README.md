@@ -1,1 +1,1 @@
-Dans ce dossier, il contient tous les photos utilisé pour ma fiche de présentation.
+Dans ce dossier, il contient tous les photos et/ou vidéos utilisés pour ma fiche de présentation.
