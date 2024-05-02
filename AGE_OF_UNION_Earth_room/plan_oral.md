@@ -1,14 +1,39 @@
 ## PLAN DE LA PRÉSENTATION
 
 *Introduction* :
-- [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
-- [ ] Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
+- [ ] Sujet posé : Présentation de le but de l'oeuvre
+- [ ] Sujet divisé : Présenté le dispositif et les différents points de développement
 
 *Développement* :
-- [ ] Informations sur l'oeuvre ou le dispositif multimédia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
-- [ ] Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
-- [ ] Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
-- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
+- [ ] Informations générales du dispositif multimédia :
+* Titre
+* Nom de l'artiste ou de la firme
+* Année de réalisation
+* Nom de l'exposition ou de l'événement
+* Type d'exposition
+* Lieu de mise en exposition + Infos sur le lieu
+* Date de votre visite
+- [ ] Caractéristiques du dispositif multimédia :
+* Description du dispositif
+* Type d'installation + Fonction
+* Mise en espace
+* Composantes
+* Éléments
+- [ ] Évaluation critique :
+      
+      Exprimer mon expérience :
+* Description de votre expérience du dispositif
+* Description de l'interactivité/contemplation/immersion/fonction
+* des gestes à poser
+* etc...
+- [ ] Évaluation critique et **justifications** :
+      
+      Ce que j'ai aimé :
+* Ce qui m'a plu et justifiez
+* M'a donné des idées et justifiez
+  
+      Ce que j'ai moins aimé :
+* Aspects que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement
 - [ ] **Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session**
 
 *Conclusion* :
