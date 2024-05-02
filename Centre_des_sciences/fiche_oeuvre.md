@@ -142,5 +142,7 @@ Lors de ma visite au Centre des sciences, j'ai pensé à quelques améliorations
 ## Références :
 
 https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+
 https://www.centredessciencesdemontreal.com/information-visiteurs
+
 https://www.youtube.com/watch?v=9l1Z7QUegws&t=2s
