@@ -87,6 +87,8 @@ Vue d'ensemble :
 L'ensemble du dispositif est dans le deuxième étage du bâtiment. Il est regroupé avec d'autres dispositif liés au thème de la lumière. Ainsi, il était en avant de ce dispositif. 
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c68a0f2f-8022-4870-927d-b4d09b48a886" width="500px">
+
+https://www.youtube.com/watch?v=9l1Z7QUegws&t=2s
 <br/>
 <br/>
 
@@ -95,7 +97,7 @@ Le dispositif qui était en arrière de celui-ci :
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0fb31a61-9985-4bfc-be0a-8d7ba6054602" width="300px">
 
 
-https://www.youtube.com/watch?v=9l1Z7QUegws&t=2s
+
 
 Croquis :
 
@@ -123,15 +125,22 @@ Pour cet dispositif, il était nécessaire d'avoir des caméras avec des capteur
 
 ### Expérience vécue :
 
-Lorsqu'on nous arrivons au Centre des Sciences
+Lorsque nous sommes allé au Centre des sciences, une guide nous a montré autour et expliqué ce que nous pourrions voir et essayer. C'était vraiment intéressant et amusant. J'ai particulièrement aimé pouvoir toucher et tester certains dispositifs interactifs. On avait le choix à explorer de différents expositions selon mes envies. 
+
+Quand j'interagissait avec les écrans, c'était vraiment génial de voir comment on se ressemble sous différents rayons. 
+
+En résumé, c'était une expérience géniale qui m'a fait réaliser à quel point la science peut être amusante et accessible. Ça m'a donné envie d'en apprendre plus et d'explorer davantage ce domaine.
 
 ### Ce que j'ai plu, m'a donné des idées :
 
-
+Pendant l'exploration de ce dispositif, j'aimais l'utilisation de projection de différents filtres grâce aux capteurs de la caméra. Ils pouvaient capter et envoyer différents tons de couleurs d'après différents niveaux de profondeurs.
 
 ### Aspect que je ne souhaiteriez pas retenir pour mes propres créations ou que je feriez autrement :
 
-
+Lors de ma visite au Centre des sciences, j'ai pensé à quelques améliorations possibles. Tout d'abord, certaines explications étaient trop simples, alors j'aurais ajouté plus de détails pour une meilleure compréhension. Ensuite, certains dispositifs interactifs semblaient un peu plat ou trop simple, donc, j'aurais mieux si le dispositif un peu plus interactif. Cela aurait rendu l'expérience plus intéressante. En résumé, quelques ajustements pourraient rendre l'expérience encore plus enrichissante et agréable.
 
 ## Références :
 
+https://www.centredessciencesdemontreal.com/exposition-permanente/explore
+https://www.centredessciencesdemontreal.com/information-visiteurs
+https://www.youtube.com/watch?v=9l1Z7QUegws&t=2s
