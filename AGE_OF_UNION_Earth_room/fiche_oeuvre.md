@@ -3,29 +3,39 @@
 
 ### NOTES ET PHOTOGRAPHIES LORS DE LA VISITE : 
 
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a62421d4-c3f6-4e18-be49-db99f387575e" width="700px">
+
+https://ageofunion.com/
 
 ## Informations générales :
 
 ### Lieu de mise en exposition :
 
-![age of union-lieu](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/adb6e470-b2fd-4497-b02a-bbaeed57396a)
+Au centre Age of union, à Montréal
 
-### Type d'expostion :
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/adb6e470-b2fd-4497-b02a-bbaeed57396a" width="500px">
 
-
-### Nom de l'artiste :
-
-Nico Fonseca et Kelly Nunes
+https://www.mtl.org/en/what-to-do/museums-and-culture/age-union-centre
 
 ### Nom de l'oeuvre :
 
+Earth room
+
+### Nom des artistes :
+
+Nico Fonseca et Kelly Nunes
+
+### Type d'expostion :
+
+Temporaire
 
 ### Date de la visite :
 
+Samedi 15 mars
 
 ### Année de réalisation :
 
-
+2022
 
 ## Caractéristiques de l'oeuvre :
 
