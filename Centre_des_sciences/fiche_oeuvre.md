@@ -12,6 +12,8 @@ https://www.centredessciencesdemontreal.com/exposition-permanente/explore
 
 ### Lieu de mise en exposition :
 
+Au centre des sciences, à Montréal
+
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a6e46a4f-0ea8-41dc-80ad-be790b72e1f4" width="500px">
 
 https://www.centredessciencesdemontreal.com/information-visiteurs
