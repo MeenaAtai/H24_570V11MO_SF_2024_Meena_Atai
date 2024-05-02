@@ -44,37 +44,45 @@ Samedi 15 mars
 Earth room est une installation multimédia où on peut visiter une petite salle avec en thème avec la nature, la terre, etc... 
 À l'intérieur, les murs sont decorés de végétation et de branches. 
 
-<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/595a5743-c92d-4e09-800b-50f122172868" width="500px">
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/595a5743-c92d-4e09-800b-50f122172868" width="800px">
 
 Ainsi, le sol est couvert de gazon et de petites feuilles d'arbres, découpés sur du bois. 
 
-![description 2](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b37d8d28-8e31-4aeb-9665-c28b12b48e41)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b37d8d28-8e31-4aeb-9665-c28b12b48e41" width="800px">
 
 Au milieu de la salle, il y avait un dispositif qui représente d'un feu de bois avec de petits cristaux de couleur chaude entouré de cristaux métalliques.
 
-![description 3](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/cf747227-917a-40f7-a1dc-cb04dfebf26c)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/cf747227-917a-40f7-a1dc-cb04dfebf26c" width="800px">
+
 
 Puis, le plafond était couvert de plaques qui projettent des formes transclusides et fluides. Ainsi, ces formes créent des formes colorées.
 
-![description 4](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0a6a2d80-f302-43f2-9c15-0e3a24260ff4)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0a6a2d80-f302-43f2-9c15-0e3a24260ff4" width="800px">
+
 
 Cartel :
 
-![cartel](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/599bb788-e8ef-4f7e-8bef-ca1885c9f189)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/599bb788-e8ef-4f7e-8bef-ca1885c9f189" width="800px">
+
 
 Diverses vues des oeuvres :
 
-![diverse vue_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f1f6938b-8352-4886-81b2-e83e304e8071)
-![diverse vue_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/631098f5-b8a9-451f-968b-7515dc7da594)
-![diverse_vue_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1d4747e1-d661-4a9b-aa0a-8d6b78d87297)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f1f6938b-8352-4886-81b2-e83e304e8071" width="800px">
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/631098f5-b8a9-451f-968b-7515dc7da594" width="800px">
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1d4747e1-d661-4a9b-aa0a-8d6b78d87297" width="800px">
+
 
 
 ### Type d'installation et fonction :
 
 Cette dispositif est de type immersive et interactive. Cette installation est une salle interactive qui émet du son de la nature comme fonction. Il a but aux visiteurs d'immerger dans l'espace  et se laisser emporter par la végétation, les lumières, les sons du vent, des plantes et des animaux, etc...
 
-![installation_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b512ff7c-a096-40d3-b1b4-cf1cfb3cdb52)
-![installation_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0f544ebb-c9a8-4c29-a7f5-9292dbf9c756)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b512ff7c-a096-40d3-b1b4-cf1cfb3cdb52" width="800px">
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0f544ebb-c9a8-4c29-a7f5-9292dbf9c756" width="800px">
+
 
 https://ageofunion.com/permanent-collection/
 
@@ -82,14 +90,15 @@ https://ageofunion.com/permanent-collection/
 
 Vue d'ensemble :
 
-Il était disposé au 2eme étage du bâtiment. Cette oeuvre est tout entièrement fait avec de décor de végétaux. Ainsi, il y a un grand cercle creusé au mur avec des ampoule pour illuminer la salle. Ainsi, quelques hauts parleurs sont caché au coin de la pièce pour les sons. Ainsi, le sol est recouvert de feuilles et au centre, il y 
-des roches foncées avec des cristaux rougâtres.
+Il était disposé au 2eme étage du bâtiment. Cette oeuvre est tout entièrement fait avec de décor de végétaux. Ainsi, il y a un grand cercle creusé au mur avec des ampoule pour illuminer la salle. Ainsi, quelques hauts parleurs sont caché au coin de la pièce pour les sons. Ainsi, le sol est recouvert de feuilles et au centre, il y a des roches foncées avec des cristaux rougâtres.
 
-![Vue_d'ensemble](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2b65976e-8eff-48ad-9883-c72e6dcf08ab)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2b65976e-8eff-48ad-9883-c72e6dcf08ab" width="800px">
+
 
 Croquis :
 
-![croquis](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f7ff12ad-509f-4c42-bab8-6e4464901825)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/f7ff12ad-509f-4c42-bab8-6e4464901825" width="800px">
+
 
 ### Composantes et techniques :
 
@@ -97,7 +106,7 @@ Voici les composantes ou techniques utilisées :
 * Enregistrements d'audio
 * Installations de végetaux et autres
 
-![composante_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/353503de-4898-4e23-9e5b-674add4c5f70)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/353503de-4898-4e23-9e5b-674add4c5f70)
 
 
 ### Éléments nécessaires à la mise en exposition :
@@ -106,12 +115,17 @@ Pour cette oeuvre, ces équipements étaient nécessaire pour le réaliser :
 * Hauts-parleurs
 * Des lumières soit LED ou autres, et des ampoules
 * Des écrans réactifs au son
-* Des décorations en lien avec la nature (feuilles vertes ou en bois, branches, roches, de la terre, etc...)
+* Des décorations en lien avec la nature (feuilles vertes ou en bois, branches, roches, de la terre, etc..." width="800px">
 
-![élément_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9f003d7d-9bc4-4276-b6bf-103a6410111b)
-![élément_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1a247c8f-1c4c-4cc0-ba9b-d8cdae01355f)
-![élément_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e615e18e-1d53-450f-a739-1e22b94e8643)
-![element_04](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/3a2a4d54-e2ba-4bdc-9d63-35d3713509e5)
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9f003d7d-9bc4-4276-b6bf-103a6410111b" width="800px">
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1a247c8f-1c4c-4cc0-ba9b-d8cdae01355f" width="800px">
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e615e18e-1d53-450f-a739-1e22b94e8643" width="800px">
+
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/3a2a4d54-e2ba-4bdc-9d63-35d3713509e5" width="800px">
+
 
 ## Évaluation critique :
 
