@@ -106,7 +106,7 @@ Pour cette oeuvre, ces équipements étaient nécessaire pour le réaliser :
 * Des écrans réactifs au son
 * Des décorations en lien avec la nature (feuilles vertes ou en bois, branches, roches, de la terre, etc...)
 
-![installation_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/d4961f4c-c821-480c-aba5-cdf277591af8)
+![élément_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/a9869049-c2fb-4156-b0a4-4093a6223001)
 ![élément_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c0ea5cfa-b1d7-4b00-a0b8-07ad5803c45f)
 ![élément_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/c227acec-3243-4a6d-8ada-6cf3a445f92a)
 
@@ -114,14 +114,15 @@ Pour cette oeuvre, ces équipements étaient nécessaire pour le réaliser :
 
 ### Expérience vécue :
 
-Lorsque j'ai visité cette exposition, c'était vraiment émouvant et je sentais une sorte de tranquilité en moi. J'ai vraiment aimé dont les plaques se changeaient de couleurs qui 
+Lorsque j'ai visité cette exposition, je ne m'attendais pas à vraiment de quelque chose extraordinaire, mais ce n'était pas le cas. c'était vraiment émouvant et je sentais une sorte de tranquilité en moi en y explorant. J'ai vraiment aimé dont les plaques se changeaient de couleurs qui agitaient selon les bruits d'animaux et du vent, cela nous gardait notre attention. Aussi, on n'avait l'impression d'être à la forêt grâce aux effets sonores et d'ambiance. Ainsi, les décorations végétaux ont amplifié l'effet d'être dans un endroit forestier. En gros, j'apprécie cette oeuvre parce qu'on ressent d'être plus proche à la nature.
 
 ### Ce que j'ai plu, m'a donné des idées :
 
-
+J'aime l'idée d'utiliser d'une salle et le rendre tout interactif. C'était originale.
 
 ### Aspect que je ne souhaiteriez pas retenir pour mes propres créations ou que je feriez autrement :
 
+Ce que j'ai moins apprécié est 
 
 ## Référence :
 
