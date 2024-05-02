@@ -6,12 +6,12 @@
 
 *Développement* :
 - [ ] Informations générales du dispositif multimédia :
-* Titre
-* Nom de l'artiste ou de la firme
-* Année de réalisation
-* Nom de l'exposition ou de l'événement
-* Type d'exposition
+* Nom de l'exposition
 * Lieu de mise en exposition + Infos sur le lieu
+* Titre
+* Nom des artistes
+* Type d'exposition
+* Année de réalisation
 * Date de votre visite
 - [ ] Caractéristiques du dispositif multimédia :
 * Description du dispositif
