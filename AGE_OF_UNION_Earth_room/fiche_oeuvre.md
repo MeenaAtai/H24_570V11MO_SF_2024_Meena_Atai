@@ -44,7 +44,7 @@ Samedi 15 mars
 Earth room est une installation multimédia où on peut visiter une petite salle avec en thème avec la nature, la terre, etc... 
 À l'intérieur, les murs sont decorés de végétation et de branches. 
 
-![description](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/595a5743-c92d-4e09-800b-50f122172868)
+<img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/595a5743-c92d-4e09-800b-50f122172868" width="500px">
 
 Ainsi, le sol est couvert de gazon et de petites feuilles d'arbres, découpés sur du bois. 
 
@@ -109,7 +109,7 @@ Pour cette oeuvre, ces équipements étaient nécessaire pour le réaliser :
 * Des décorations en lien avec la nature (feuilles vertes ou en bois, branches, roches, de la terre, etc...)
 
 ![élément_01](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/9f003d7d-9bc4-4276-b6bf-103a6410111b)
-![élément_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/8475b8a8-3192-428b-8307-4ea7a5340676)
+![élément_02](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/1a247c8f-1c4c-4cc0-ba9b-d8cdae01355f)
 ![élément_03](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/e615e18e-1d53-450f-a739-1e22b94e8643)
 ![element_04](https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/3a2a4d54-e2ba-4bdc-9d63-35d3713509e5)
 
