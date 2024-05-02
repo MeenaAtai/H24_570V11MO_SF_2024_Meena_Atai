@@ -25,7 +25,7 @@ Earth room
 
 Nico Fonseca et Kelly Nunes
 
-### Type d'expostion :
+### Type d'exposition :
 
 Permanent
 
@@ -41,8 +41,8 @@ Samedi 15 mars
 
 ### Description de l'oeuvre :
 
-Earth room est une installation multimédia où on peut visiter une petite salle avec en thème avec la nature, la terre, etc... 
-À l'intérieur, les murs sont decorés de végétation et de branches. 
+Earth room est une installation multimédia où l'on peut visiter une petite salle avec en thème avec la nature, la terre, etc.
+À l'intérieur, les murs sont décorés de végétation et de branches. 
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/595a5743-c92d-4e09-800b-50f122172868" width="800px">
 
@@ -50,12 +50,12 @@ Ainsi, le sol est couvert de gazon et de petites feuilles d'arbres, découpés s
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b37d8d28-8e31-4aeb-9665-c28b12b48e41" width="800px">
 
-Au milieu de la salle, il y avait un dispositif qui représente d'un feu de bois avec de petits cristaux de couleur chaude entouré de cristaux métalliques.
+Au milieu de la salle, il y avait un dispositif ressemblant d'un feu de bois avec de petits cristaux de couleur chaude entouré de cristaux métalliques.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/cf747227-917a-40f7-a1dc-cb04dfebf26c" width="800px">
 
 
-Puis, le plafond était couvert de plaques qui projettent des formes transclusides et fluides. Ainsi, ces formes créent des formes colorées.
+Puis, le plafond était couvert de plaques qui projettent des formes translucides et fluides. Ainsi, ces formes créent des formes colorées.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/0a6a2d80-f302-43f2-9c15-0e3a24260ff4" width="800px">
 
@@ -77,7 +77,7 @@ Diverses vues des oeuvres :
 
 ### Type d'installation et fonction :
 
-Cette dispositif est de type immersive et interactive. Cette installation est une salle interactive qui émet du son de la nature comme fonction. Il a but aux visiteurs d'immerger dans l'espace  et se laisser emporter par la végétation, les lumières, les sons du vent, des plantes et des animaux, etc...
+Ce dispositif est de type immersif et interactif. Cette installation est une salle interactive qui émet du son de la nature comme fonction. Leur but est d'amener les visiteurs en plongeant dans un univers vert et se faire laisser emporter par la végétation, les lumières, les sons du vent, des plantes et des animaux, etc.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/b512ff7c-a096-40d3-b1b4-cf1cfb3cdb52" width="800px">
 
@@ -90,7 +90,7 @@ https://ageofunion.com/permanent-collection/
 
 Vue d'ensemble :
 
-Il était disposé au 2eme étage du bâtiment. Cette oeuvre est tout entièrement fait avec de décor de végétaux. Ainsi, il y a un grand cercle creusé au mur avec des ampoule pour illuminer la salle. Ainsi, quelques hauts parleurs sont caché au coin de la pièce pour les sons. Ainsi, le sol est recouvert de feuilles et au centre, il y a des roches foncées avec des cristaux rougâtres.
+Il était disposé au 2e étage du bâtiment. Cette œuvre est tout entièrement faite avec de décor de végétaux. Ainsi, il y a un grand cercle creusé au mur avec des ampoules pour illuminer la salle. Ainsi, quelques haut-parleurs sont cachés au coin de la pièce pour les sons. Ainsi, le sol est recouvert de feuilles et au centre, il y a des roches foncées avec des cristaux rougeâtres.
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/2b65976e-8eff-48ad-9883-c72e6dcf08ab" width="800px">
 
@@ -104,7 +104,7 @@ Croquis :
 
 Voici les composantes ou techniques utilisées :
 * Enregistrements d'audio
-* Installations de végetaux et autres
+* Installations de végétaux et autres
 
 <img src="https://github.com/MeenaAtai/H24_V11_inspirations_ATAI/assets/143361141/353503de-4898-4e23-9e5b-674add4c5f70)
 
@@ -131,13 +131,13 @@ Pour cette oeuvre, ces équipements étaient nécessaire pour le réaliser :
 
 ### Expérience vécue :
 
-Lorsque j'ai visité cette exposition, je ne m'attendais pas à vraiment de quelque chose extraordinaire, mais ce n'était pas le cas. c'était vraiment émouvant et je sentais une sorte de tranquilité en moi en y explorant. J'ai vraiment aimé dont les plaques se changeaient de couleurs qui agitaient selon les bruits d'animaux et du vent, cela nous gardait notre attention. Aussi, on n'avait l'impression d'être à la forêt grâce aux effets sonores et d'ambiance. Ainsi, les décorations végétaux ont amplifié l'effet d'être dans un endroit forestier. En gros, j'apprécie cette oeuvre parce qu'on ressent d'être plus proche à la nature.
+Lorsque j'ai visité cette exposition, je ne m'attendais pas vraiment de quelque chose d’extraordinaire, mais ce n'était pas le cas. C'était vraiment émouvant et je sentais une sorte de tranquillité en moi en y explorant. J'ai vraiment aimé ce dont les plaques se changeaient de couleurs qui agitaient selon les bruits d'animaux et du vent, cela nous gardait notre attention. Aussi, on n'avait l'impression d'être à la forêt grâce aux effets sonores et d'ambiance. Ainsi, les décorations végétales ont amplifié l'effet de vivre dans un endroit forestier. En gros, j'apprécie cette œuvre parce qu'on se sent d'être plus proche à la nature.
 
-### Ce que j'ai plu, m'a donné des idées :
+### Ce que j'ai plus, m'a donné des idées :
 
-J'aime l'idée d'utiliser d'une salle et le rendre tout interactif. C'était originale. Ainsi, il évoque un profond respect pour notre environnement. La simplicité de ce concept nous rappelle l'importance de prendre soin de la Terre et de toutes ses créatures. Cela m'inspire à adopter un mode de vie plus respectueux de l'environnement et à encourager les autres à faire de même.
+J'aime l'idée de se servir d'une salle et on le rend tout interactif. C'était original. Ainsi, il évoque un profond respect pour notre environnement. La simplicité de ce concept nous rappelle l'importance de prendre soin de la Terre et de toutes ses créatures. Cela m'inspire à adopter un mode de vie plus respectueux de l'environnement et à encourager les autres à faire de même.
 
-### Aspect que je ne souhaiteriez pas retenir pour mes propres créations ou que je feriez autrement :
+### Aspect que je ne souhaiterais pas retenir pour mes propres créations ou que je ferais autrement :
 
 Quelques points à modifier ou à améliorer à ce projet seraient d'augmenter la diversité des végétations. En effet, cela permettrait de mieux représenter la richesse et la variété de la vie naturelle. Ainsi, en intégrant une plus grande diversité de plantes, fleurs et arbres, le projet serait plus fidèle à la réalité écologique et offrirait une expérience plus immersive pour les visiteurs. Ainsi, il y aurait plus d'interactivité avec cette oeuvre.
 
