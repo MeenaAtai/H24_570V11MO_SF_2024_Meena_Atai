@@ -27,7 +27,7 @@ Nico Fonseca et Kelly Nunes
 
 ### Type d'expostion :
 
-Temporaire
+Permanent
 
 ### Date de la visite :
 
@@ -41,7 +41,7 @@ Samedi 15 mars
 
 ### Description de l'oeuvre :
 
-À l'Age of union, on poouvait entrer dans une 
+Earth room est une installation multimédia où on peut visiter une petite salle avec en thème avec la nature, la terre, etc... À l'intérieur, les murs sont decorés de végétation et de plantes. Ainsi, le sol sont couverts de petits roches. 
 
 Cartel :
 
