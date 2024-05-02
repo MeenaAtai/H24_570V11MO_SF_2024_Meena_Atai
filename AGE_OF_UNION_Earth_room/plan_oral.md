@@ -26,7 +26,6 @@
 * Description de l'interactivité/contemplation/immersion/fonction
 * des gestes à poser
 * etc...
-- [ ] Évaluation critique et **justifications** :
       
       Ce que j'ai aimé :
 * Ce qui m'a plu et justifiez
